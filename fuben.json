@@ -1,0 +1,24 @@
+[
+	{
+		"id":int,
+		"name":string,
+		"des":string,
+		"battles":[
+			{
+				"id":int,
+				"name":string,
+				"bosses":[
+					{
+						"name":string,
+						"des":string,
+						"energy":int,
+						"exp":int,
+						"money":int,
+						"talk":[{"pic":int,"content":string},...],
+						"reward":[{"tid":int,"type":int,"prob":number,"des":string},...]
+					},...
+				]
+			},...
+		]
+	},...
+]

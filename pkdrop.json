@@ -1,0 +1,9 @@
+{
+	"weights":[int,int,...],
+	"five_star":[[int,int,...],[int,int,...],...],
+	"four_star":[[int,int,...],[int,int,...],...],
+	"three_star":[[int,int,...],[int,int,...],...],
+	"two_star":[[int,int,...],[int,int,...],...],
+	"one_star":[[int,int,...],[int,int,...],...],
+	"extension":[]
+}
