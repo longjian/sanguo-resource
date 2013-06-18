@@ -1,0 +1,17 @@
+[
+	{
+		"id":int,
+		"name":string,
+		"des":string,
+		"star":int,
+		"country":int,
+		"atk_min":int,
+		"atk_range":int,
+		"atk_max":int,
+		"def_min":int,
+		"def_range":int,
+		"def_max":int,
+		"pic":int,
+		"skills":[int,int,...]
+	},...
+]
