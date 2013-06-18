@@ -1,0 +1,16 @@
+[
+	{
+		"id":int,
+		"name":string,
+		"des":string,
+		"fpos":{"atk":double,"def":double,"atk_delta":double,"def_delta":double},
+		"pos":[{"atk":double,"def":double,"atk_delta":double,"def_delta":double},...],
+		"restrain":[{"id":int,"atk":double,"def":double},...],
+		"ctime":int,
+		"frags":[{
+				"id":int,
+				"name":string,
+				"des":string
+			},...]
+	},...
+]

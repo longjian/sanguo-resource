@@ -1,0 +1,18 @@
+[
+	{
+		"id":int,
+		"name":string,
+		"des":string,
+		"atk_add":int,
+		"def_add":int,
+		"country":int,
+		"country_atk_add":int,
+		"country_def_add":int,
+		"country_atk_sub":int,
+		"country_def_sub":int,
+		"restrain_type":int,
+		"restrain_country":int,
+		"prob":double,
+		"cnt":int
+	},...
+]

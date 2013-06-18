@@ -1,0 +1,17 @@
+[
+	{
+		"id":int,
+		"name":string,
+		"des":string,
+		"add_type":int,
+		"add_min":int,
+		"add_max":int,
+		"frags":[
+			{
+				"id":int,
+				"name":string,
+				"des":string
+			},...
+		]
+	},...
+]

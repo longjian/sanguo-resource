@@ -1,0 +1,10 @@
+[
+	{
+		"id":int,
+		"name":string,
+		"des":string,
+		"star":int,
+		"def_min":int,
+		"def_max":int
+	},...
+]

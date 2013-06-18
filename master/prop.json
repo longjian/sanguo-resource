@@ -1,0 +1,14 @@
+[
+	{
+		"id":int,
+		"name":string,
+		"des":string,
+		"money":int,
+		"cash":int,
+		"rmb":int,
+		"product_id":string,
+		"add_type":int,
+		"add_method":int,
+		"add_data":[{"tid":int,"cnt":int},...]
+	},...
+]

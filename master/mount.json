@@ -1,0 +1,11 @@
+[
+	{
+		"id":int,
+		"name":string,
+		"des":string,
+		"star":int,
+		"add_type":int,
+		"add_info_min":int,
+		"add_info_max":int,
+	},...
+]

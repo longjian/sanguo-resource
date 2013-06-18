@@ -1,0 +1,33 @@
+[
+	{
+		"id":int,
+		"name":string,
+		"chapters":[
+			{
+				"id":int,
+				"name":string,
+				"des":string,
+				"difficulty":int,
+				"pic":int,
+				"rewards":[{"tid":int,"type":int,"prob":number},...],
+				"mission":[
+					{
+						"id":int,
+						"name":string,
+						"desc":string,
+						"energy":int,
+						"exp":int,
+						"money":int,
+						"finish":int,
+						"boss":{
+							"name":string,
+							"talk":[{"pic":int,"content":string},...],
+							"cast":[{"gid":int,"level":int},...],
+							"reward":[{"tid":int,"type":int,"prob":number,"des":string},...]
+						}
+					},...
+				]
+			},...
+		]
+	},...
+]

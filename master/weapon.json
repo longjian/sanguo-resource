@@ -1,0 +1,10 @@
+[
+	{
+		"id":int,
+		"name":string,
+		"des":string,
+		"star":int,
+		"atk_min":int,
+		"atk_max":int
+	},...
+]
