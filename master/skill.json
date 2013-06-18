@@ -3,6 +3,7 @@
 		"id":int,
 		"name":string,
 		"des":string,
+		"condition":[{"type":int,"id":int},...],
 		"atk_add":int,
 		"def_add":int,
 		"country":int,
