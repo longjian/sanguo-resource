@@ -1,4 +1,4 @@
-{
+﻿{
 	"energy_recover_time":int,
 	"vigour_recover_time":int,
 	"free_speak_time":int,

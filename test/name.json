@@ -1,4 +1,4 @@
-{
+﻿{
 	"first_name":[string,string,...],
 	"second_name":[string,string,...],
 	"third_name":[string,string,...]

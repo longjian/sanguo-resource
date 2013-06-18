@@ -1,4 +1,4 @@
-{
+﻿{
 	"weights":[int,int,...],
 	"five_star":[[int,int,...],[int,int,...],...],
 	"four_star":[[int,int,...],[int,int,...],...],
