@@ -14,8 +14,9 @@
 						"energy":int,
 						"exp":int,
 						"money":int,
+						"cast":[{"gid":int,"level":int},...]
 						"talk":[{"pic":int,"content":string},...],
-						"reward":[{"tid":int,"type":int,"prob":number,"des":string},...]
+						"reward":[{"tid":int,"type":int,"prob":number},...]
 					},...
 				]
 			},...

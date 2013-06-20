@@ -7,7 +7,6 @@
 				"id":int,
 				"name":string,
 				"des":string,
-				"difficulty":int,
 				"pic":int,
 				"rewards":[{"tid":int,"type":int,"prob":number},...],
 				"mission":[
