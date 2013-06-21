@@ -1,4 +1,4 @@
-﻿[
+锘縖
 	{
 		"id":int,
 		"name":string,
@@ -20,6 +20,7 @@
 						"finish":int,
 						"boss":{
 							"name":string,
+							"des":string,
 							"talk":[{"pic":int,"content":string},...],
 							"cast":[{"gid":int,"level":int},...],
 							"reward":[{"tid":int,"type":int,"prob":number,"des":string},...]

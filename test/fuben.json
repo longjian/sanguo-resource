@@ -16,7 +16,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":10	},{"gid":5,"level":10	},{"gid":1,"level":10	},{"gid":2,"level":10	},{"gid":60,"level":10	},{"gid":35,"level":10	},{"gid":33,"level":10	},{"gid":88,"level":10	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -26,7 +26,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":11	},{"gid":5,"level":11	},{"gid":1,"level":11	},{"gid":2,"level":11	},{"gid":60,"level":11	},{"gid":35,"level":11	},{"gid":33,"level":11	},{"gid":88,"level":11	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -36,7 +36,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":12	},{"gid":5,"level":12	},{"gid":1,"level":12	},{"gid":2,"level":12	},{"gid":60,"level":12	},{"gid":35,"level":12	},{"gid":33,"level":12	},{"gid":88,"level":12	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -46,7 +46,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":13	},{"gid":5,"level":13	},{"gid":1,"level":13	},{"gid":2,"level":13	},{"gid":60,"level":13	},{"gid":35,"level":13	},{"gid":33,"level":13	},{"gid":88,"level":13	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -56,8 +56,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":14	},{"gid":5,"level":14	},{"gid":1,"level":14	},{"gid":2,"level":14	},{"gid":60,"level":14	},{"gid":35,"level":14	},{"gid":33,"level":14	},{"gid":88,"level":14	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":2,
@@ -71,7 +72,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":15	},{"gid":5,"level":15	},{"gid":1,"level":15	},{"gid":2,"level":15	},{"gid":60,"level":15	},{"gid":35,"level":15	},{"gid":33,"level":15	},{"gid":88,"level":15	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -81,7 +82,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":16	},{"gid":5,"level":16	},{"gid":1,"level":16	},{"gid":2,"level":16	},{"gid":60,"level":16	},{"gid":35,"level":16	},{"gid":33,"level":16	},{"gid":88,"level":16	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -91,7 +92,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":17	},{"gid":5,"level":17	},{"gid":1,"level":17	},{"gid":2,"level":17	},{"gid":60,"level":17	},{"gid":35,"level":17	},{"gid":33,"level":17	},{"gid":88,"level":17	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -101,7 +102,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":18	},{"gid":5,"level":18	},{"gid":1,"level":18	},{"gid":2,"level":18	},{"gid":60,"level":18	},{"gid":35,"level":18	},{"gid":33,"level":18	},{"gid":88,"level":18	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -111,8 +112,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":19	},{"gid":5,"level":19	},{"gid":1,"level":19	},{"gid":2,"level":19	},{"gid":60,"level":19	},{"gid":35,"level":19	},{"gid":33,"level":19	},{"gid":88,"level":19	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":3,
@@ -126,7 +128,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":20	},{"gid":5,"level":20	},{"gid":1,"level":20	},{"gid":2,"level":20	},{"gid":60,"level":20	},{"gid":35,"level":20	},{"gid":33,"level":20	},{"gid":88,"level":20	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -136,7 +138,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":21	},{"gid":5,"level":21	},{"gid":1,"level":21	},{"gid":2,"level":21	},{"gid":60,"level":21	},{"gid":35,"level":21	},{"gid":33,"level":21	},{"gid":88,"level":21	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -146,7 +148,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":22	},{"gid":5,"level":22	},{"gid":1,"level":22	},{"gid":2,"level":22	},{"gid":60,"level":22	},{"gid":35,"level":22	},{"gid":33,"level":22	},{"gid":88,"level":22	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -156,7 +158,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":23	},{"gid":5,"level":23	},{"gid":1,"level":23	},{"gid":2,"level":23	},{"gid":60,"level":23	},{"gid":35,"level":23	},{"gid":33,"level":23	},{"gid":88,"level":23	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -166,8 +168,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":24	},{"gid":5,"level":24	},{"gid":1,"level":24	},{"gid":2,"level":24	},{"gid":60,"level":24	},{"gid":35,"level":24	},{"gid":33,"level":24	},{"gid":88,"level":24	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":4,
@@ -181,7 +184,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":25	},{"gid":5,"level":25	},{"gid":1,"level":25	},{"gid":2,"level":25	},{"gid":60,"level":25	},{"gid":35,"level":25	},{"gid":33,"level":25	},{"gid":88,"level":25	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -191,7 +194,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":26	},{"gid":5,"level":26	},{"gid":1,"level":26	},{"gid":2,"level":26	},{"gid":60,"level":26	},{"gid":35,"level":26	},{"gid":33,"level":26	},{"gid":88,"level":26	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -201,7 +204,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":27	},{"gid":5,"level":27	},{"gid":1,"level":27	},{"gid":2,"level":27	},{"gid":60,"level":27	},{"gid":35,"level":27	},{"gid":33,"level":27	},{"gid":88,"level":27	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -211,7 +214,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":28	},{"gid":5,"level":28	},{"gid":1,"level":28	},{"gid":2,"level":28	},{"gid":60,"level":28	},{"gid":35,"level":28	},{"gid":33,"level":28	},{"gid":88,"level":28	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -221,8 +224,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":29	},{"gid":5,"level":29	},{"gid":1,"level":29	},{"gid":2,"level":29	},{"gid":60,"level":29	},{"gid":35,"level":29	},{"gid":33,"level":29	},{"gid":88,"level":29	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":5,
@@ -236,7 +240,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":30	},{"gid":5,"level":30	},{"gid":1,"level":30	},{"gid":2,"level":30	},{"gid":60,"level":30	},{"gid":35,"level":30	},{"gid":33,"level":30	},{"gid":88,"level":30	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -246,7 +250,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":31	},{"gid":5,"level":31	},{"gid":1,"level":31	},{"gid":2,"level":31	},{"gid":60,"level":31	},{"gid":35,"level":31	},{"gid":33,"level":31	},{"gid":88,"level":31	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -256,7 +260,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":32	},{"gid":5,"level":32	},{"gid":1,"level":32	},{"gid":2,"level":32	},{"gid":60,"level":32	},{"gid":35,"level":32	},{"gid":33,"level":32	},{"gid":88,"level":32	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -266,7 +270,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":33	},{"gid":5,"level":33	},{"gid":1,"level":33	},{"gid":2,"level":33	},{"gid":60,"level":33	},{"gid":35,"level":33	},{"gid":33,"level":33	},{"gid":88,"level":33	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -276,8 +280,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":34	},{"gid":5,"level":34	},{"gid":1,"level":34	},{"gid":2,"level":34	},{"gid":60,"level":34	},{"gid":35,"level":34	},{"gid":33,"level":34	},{"gid":88,"level":34	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":6,
@@ -291,7 +296,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":35	},{"gid":5,"level":35	},{"gid":1,"level":35	},{"gid":2,"level":35	},{"gid":60,"level":35	},{"gid":35,"level":35	},{"gid":33,"level":35	},{"gid":88,"level":35	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -301,7 +306,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":36	},{"gid":5,"level":36	},{"gid":1,"level":36	},{"gid":2,"level":36	},{"gid":60,"level":36	},{"gid":35,"level":36	},{"gid":33,"level":36	},{"gid":88,"level":36	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -311,7 +316,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":37	},{"gid":5,"level":37	},{"gid":1,"level":37	},{"gid":2,"level":37	},{"gid":60,"level":37	},{"gid":35,"level":37	},{"gid":33,"level":37	},{"gid":88,"level":37	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -321,7 +326,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":38	},{"gid":5,"level":38	},{"gid":1,"level":38	},{"gid":2,"level":38	},{"gid":60,"level":38	},{"gid":35,"level":38	},{"gid":33,"level":38	},{"gid":88,"level":38	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -331,8 +336,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":7,
@@ -346,7 +352,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -356,7 +362,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -366,7 +372,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -376,7 +382,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -386,8 +392,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":8,
@@ -401,7 +408,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -411,7 +418,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -421,7 +428,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -431,7 +438,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -441,8 +448,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":9,
@@ -456,7 +464,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -466,7 +474,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -476,7 +484,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -486,7 +494,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -496,8 +504,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":10,
@@ -511,7 +520,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -521,7 +530,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -531,7 +540,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -541,7 +550,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -551,9 +560,11 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
-	},
+		]
+	}
+		]
 	},
 	{
 		"id":2,
@@ -572,7 +583,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":20	},{"gid":5,"level":20	},{"gid":1,"level":20	},{"gid":2,"level":20	},{"gid":60,"level":20	},{"gid":35,"level":20	},{"gid":33,"level":20	},{"gid":88,"level":20	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -582,7 +593,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":21	},{"gid":5,"level":21	},{"gid":1,"level":21	},{"gid":2,"level":21	},{"gid":60,"level":21	},{"gid":35,"level":21	},{"gid":33,"level":21	},{"gid":88,"level":21	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -592,7 +603,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":22	},{"gid":5,"level":22	},{"gid":1,"level":22	},{"gid":2,"level":22	},{"gid":60,"level":22	},{"gid":35,"level":22	},{"gid":33,"level":22	},{"gid":88,"level":22	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -602,7 +613,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":23	},{"gid":5,"level":23	},{"gid":1,"level":23	},{"gid":2,"level":23	},{"gid":60,"level":23	},{"gid":35,"level":23	},{"gid":33,"level":23	},{"gid":88,"level":23	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -612,8 +623,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":24	},{"gid":5,"level":24	},{"gid":1,"level":24	},{"gid":2,"level":24	},{"gid":60,"level":24	},{"gid":35,"level":24	},{"gid":33,"level":24	},{"gid":88,"level":24	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":12,
@@ -627,7 +639,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":25	},{"gid":5,"level":25	},{"gid":1,"level":25	},{"gid":2,"level":25	},{"gid":60,"level":25	},{"gid":35,"level":25	},{"gid":33,"level":25	},{"gid":88,"level":25	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -637,7 +649,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":26	},{"gid":5,"level":26	},{"gid":1,"level":26	},{"gid":2,"level":26	},{"gid":60,"level":26	},{"gid":35,"level":26	},{"gid":33,"level":26	},{"gid":88,"level":26	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -647,7 +659,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":27	},{"gid":5,"level":27	},{"gid":1,"level":27	},{"gid":2,"level":27	},{"gid":60,"level":27	},{"gid":35,"level":27	},{"gid":33,"level":27	},{"gid":88,"level":27	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -657,7 +669,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":28	},{"gid":5,"level":28	},{"gid":1,"level":28	},{"gid":2,"level":28	},{"gid":60,"level":28	},{"gid":35,"level":28	},{"gid":33,"level":28	},{"gid":88,"level":28	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -667,8 +679,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":29	},{"gid":5,"level":29	},{"gid":1,"level":29	},{"gid":2,"level":29	},{"gid":60,"level":29	},{"gid":35,"level":29	},{"gid":33,"level":29	},{"gid":88,"level":29	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":13,
@@ -682,7 +695,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":30	},{"gid":5,"level":30	},{"gid":1,"level":30	},{"gid":2,"level":30	},{"gid":60,"level":30	},{"gid":35,"level":30	},{"gid":33,"level":30	},{"gid":88,"level":30	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -692,7 +705,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":31	},{"gid":5,"level":31	},{"gid":1,"level":31	},{"gid":2,"level":31	},{"gid":60,"level":31	},{"gid":35,"level":31	},{"gid":33,"level":31	},{"gid":88,"level":31	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -702,7 +715,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":32	},{"gid":5,"level":32	},{"gid":1,"level":32	},{"gid":2,"level":32	},{"gid":60,"level":32	},{"gid":35,"level":32	},{"gid":33,"level":32	},{"gid":88,"level":32	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -712,7 +725,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":33	},{"gid":5,"level":33	},{"gid":1,"level":33	},{"gid":2,"level":33	},{"gid":60,"level":33	},{"gid":35,"level":33	},{"gid":33,"level":33	},{"gid":88,"level":33	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -722,8 +735,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":34	},{"gid":5,"level":34	},{"gid":1,"level":34	},{"gid":2,"level":34	},{"gid":60,"level":34	},{"gid":35,"level":34	},{"gid":33,"level":34	},{"gid":88,"level":34	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":14,
@@ -737,7 +751,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":35	},{"gid":5,"level":35	},{"gid":1,"level":35	},{"gid":2,"level":35	},{"gid":60,"level":35	},{"gid":35,"level":35	},{"gid":33,"level":35	},{"gid":88,"level":35	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -747,7 +761,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":36	},{"gid":5,"level":36	},{"gid":1,"level":36	},{"gid":2,"level":36	},{"gid":60,"level":36	},{"gid":35,"level":36	},{"gid":33,"level":36	},{"gid":88,"level":36	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -757,7 +771,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":37	},{"gid":5,"level":37	},{"gid":1,"level":37	},{"gid":2,"level":37	},{"gid":60,"level":37	},{"gid":35,"level":37	},{"gid":33,"level":37	},{"gid":88,"level":37	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -767,7 +781,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":38	},{"gid":5,"level":38	},{"gid":1,"level":38	},{"gid":2,"level":38	},{"gid":60,"level":38	},{"gid":35,"level":38	},{"gid":33,"level":38	},{"gid":88,"level":38	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -777,8 +791,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":15,
@@ -792,7 +807,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -802,7 +817,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -812,7 +827,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -822,7 +837,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -832,8 +847,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":16,
@@ -847,7 +863,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -857,7 +873,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -867,7 +883,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -877,7 +893,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -887,8 +903,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":17,
@@ -902,7 +919,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -912,7 +929,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -922,7 +939,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -932,7 +949,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -942,8 +959,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":18,
@@ -957,7 +975,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -967,7 +985,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -977,7 +995,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -987,7 +1005,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -997,8 +1015,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":19,
@@ -1012,7 +1031,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1022,7 +1041,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1032,7 +1051,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1042,7 +1061,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1052,8 +1071,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":20,
@@ -1067,7 +1087,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1077,7 +1097,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1087,7 +1107,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1097,7 +1117,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1107,9 +1127,11 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
-	},
+		]
+	}
+		]
 	},
 	{
 		"id":3,
@@ -1128,7 +1150,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":30	},{"gid":5,"level":30	},{"gid":1,"level":30	},{"gid":2,"level":30	},{"gid":60,"level":30	},{"gid":35,"level":30	},{"gid":33,"level":30	},{"gid":88,"level":30	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1138,7 +1160,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":31	},{"gid":5,"level":31	},{"gid":1,"level":31	},{"gid":2,"level":31	},{"gid":60,"level":31	},{"gid":35,"level":31	},{"gid":33,"level":31	},{"gid":88,"level":31	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1148,7 +1170,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":32	},{"gid":5,"level":32	},{"gid":1,"level":32	},{"gid":2,"level":32	},{"gid":60,"level":32	},{"gid":35,"level":32	},{"gid":33,"level":32	},{"gid":88,"level":32	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1158,7 +1180,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":33	},{"gid":5,"level":33	},{"gid":1,"level":33	},{"gid":2,"level":33	},{"gid":60,"level":33	},{"gid":35,"level":33	},{"gid":33,"level":33	},{"gid":88,"level":33	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1168,8 +1190,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":34	},{"gid":5,"level":34	},{"gid":1,"level":34	},{"gid":2,"level":34	},{"gid":60,"level":34	},{"gid":35,"level":34	},{"gid":33,"level":34	},{"gid":88,"level":34	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":22,
@@ -1183,7 +1206,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":35	},{"gid":5,"level":35	},{"gid":1,"level":35	},{"gid":2,"level":35	},{"gid":60,"level":35	},{"gid":35,"level":35	},{"gid":33,"level":35	},{"gid":88,"level":35	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1193,7 +1216,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":36	},{"gid":5,"level":36	},{"gid":1,"level":36	},{"gid":2,"level":36	},{"gid":60,"level":36	},{"gid":35,"level":36	},{"gid":33,"level":36	},{"gid":88,"level":36	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1203,7 +1226,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":37	},{"gid":5,"level":37	},{"gid":1,"level":37	},{"gid":2,"level":37	},{"gid":60,"level":37	},{"gid":35,"level":37	},{"gid":33,"level":37	},{"gid":88,"level":37	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1213,7 +1236,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":38	},{"gid":5,"level":38	},{"gid":1,"level":38	},{"gid":2,"level":38	},{"gid":60,"level":38	},{"gid":35,"level":38	},{"gid":33,"level":38	},{"gid":88,"level":38	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1223,8 +1246,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":23,
@@ -1238,7 +1262,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1248,7 +1272,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1258,7 +1282,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1268,7 +1292,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1278,8 +1302,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":24,
@@ -1293,7 +1318,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1303,7 +1328,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1313,7 +1338,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1323,7 +1348,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1333,8 +1358,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":25,
@@ -1348,7 +1374,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1358,7 +1384,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1368,7 +1394,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1378,7 +1404,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1388,8 +1414,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":26,
@@ -1403,7 +1430,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1413,7 +1440,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1423,7 +1450,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1433,7 +1460,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1443,8 +1470,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":27,
@@ -1458,7 +1486,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1468,7 +1496,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1478,7 +1506,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1488,7 +1516,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1498,8 +1526,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":28,
@@ -1513,7 +1542,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1523,7 +1552,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1533,7 +1562,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1543,7 +1572,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1553,8 +1582,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":29,
@@ -1568,7 +1598,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1578,7 +1608,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1588,7 +1618,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1598,7 +1628,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1608,8 +1638,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":30,
@@ -1623,7 +1654,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1633,7 +1664,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1643,7 +1674,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1653,7 +1684,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1663,9 +1694,11 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
-	},
+		]
+	}
+		]
 	},
 	{
 		"id":4,
@@ -1684,7 +1717,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1694,7 +1727,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1704,7 +1737,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1714,7 +1747,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1724,8 +1757,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":32,
@@ -1739,7 +1773,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1749,7 +1783,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1759,7 +1793,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1769,7 +1803,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1779,8 +1813,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":33,
@@ -1794,7 +1829,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1804,7 +1839,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1814,7 +1849,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1824,7 +1859,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1834,8 +1869,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":34,
@@ -1849,7 +1885,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1859,7 +1895,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1869,7 +1905,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1879,7 +1915,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1889,8 +1925,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":35,
@@ -1904,7 +1941,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1914,7 +1951,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1924,7 +1961,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1934,7 +1971,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1944,8 +1981,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":36,
@@ -1959,7 +1997,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1969,7 +2007,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1979,7 +2017,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1989,7 +2027,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -1999,8 +2037,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":37,
@@ -2014,7 +2053,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2024,7 +2063,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2034,7 +2073,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2044,7 +2083,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2054,8 +2093,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":38,
@@ -2069,7 +2109,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2079,7 +2119,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2089,7 +2129,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2099,7 +2139,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2109,8 +2149,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":39,
@@ -2124,7 +2165,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2134,7 +2175,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2144,7 +2185,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2154,7 +2195,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2164,8 +2205,9 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
+		]
 	},
 			{
 			"id":40,
@@ -2179,7 +2221,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2189,7 +2231,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2199,7 +2241,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2209,7 +2251,7 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				},
 				{
 				"name":"张飞",
@@ -2219,8 +2261,10 @@
 				"money":100,
 				"cast":[{"gid":9,"level":39	},{"gid":5,"level":39	},{"gid":1,"level":39	},{"gid":2,"level":39	},{"gid":60,"level":39	},{"gid":35,"level":39	},{"gid":33,"level":39	},{"gid":88,"level":39	}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
-				"reward":[{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1},{"tid":10,"type":1,"prob":.1}]
+				"reward":[{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1}]
 				}
-	},
+		]
+	}
+		]
 	}
 ]
