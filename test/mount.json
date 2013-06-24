@@ -4,359 +4,359 @@
 		"name":"赤兔",
 		"des":"红色的汗血宝马，像老虎一样的烈马",
 		"star":5,
-		"add_type":1,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":1,
+		"add_min":1,
+		"add_max":50
 	},
 	"158":{
 		"id":158,
 		"name":"的卢",
 		"des":"刘备的坐骑，曾跃过阔溪救了刘备一命",
 		"star":4,
-		"add_type":2,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":2,
+		"add_min":1,
+		"add_max":50
 	},
 	"159":{
 		"id":159,
 		"name":"绝影",
 		"des":"跑起来快得连影子也跟不上",
 		"star":4,
-		"add_type":3,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":3,
+		"add_min":1,
+		"add_max":50
 	},
 	"160":{
 		"id":160,
 		"name":"爪黄飞电",
 		"des":"曹操的爱驹，高大威武，气势磅礴",
 		"star":4,
-		"add_type":4,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":4,
+		"add_min":1,
+		"add_max":50
 	},
 	"161":{
 		"id":161,
 		"name":"乌云踏雪",
 		"des":"张飞所乘之马，又名“王追”",
 		"star":4,
-		"add_type":1,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":1,
+		"add_min":1,
+		"add_max":50
 	},
 	"162":{
 		"id":162,
 		"name":"燎原火",
 		"des":"黄忠之马，性情暴躁，极具攻击性",
 		"star":4,
-		"add_type":2,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":2,
+		"add_min":1,
+		"add_max":50
 	},
 	"163":{
 		"id":163,
 		"name":"照夜玉狮子",
 		"des":"赵云所乘之马，浑身雪白",
 		"star":4,
-		"add_type":3,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":3,
+		"add_min":1,
+		"add_max":50
 	},
 	"164":{
 		"id":164,
 		"name":"惊帆",
 		"des":"曹真之马，耐力惊人，速度飞快",
 		"star":4,
-		"add_type":4,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":4,
+		"add_min":1,
+		"add_max":50
 	},
 	"165":{
 		"id":165,
 		"name":"乌孙",
 		"des":"乌孙国出产的良马",
 		"star":4,
-		"add_type":1,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":1,
+		"add_min":1,
+		"add_max":50
 	},
 	"166":{
 		"id":166,
 		"name":"哈萨克马",
 		"des":"骨骼粗实、皮厚毛密的群牧马",
 		"star":3,
-		"add_type":2,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":2,
+		"add_min":1,
+		"add_max":50
 	},
 	"167":{
 		"id":167,
 		"name":"大宛马",
 		"des":"西域诸国特产的强健、威猛的大宛马",
 		"star":3,
-		"add_type":3,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":3,
+		"add_min":1,
+		"add_max":50
 	},
 	"168":{
 		"id":168,
 		"name":"蒙古马",
 		"des":"蒙古国特产的草原马种",
 		"star":3,
-		"add_type":4,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":4,
+		"add_min":1,
+		"add_max":50
 	},
 	"169":{
 		"id":169,
 		"name":"汗血马",
 		"des":"高速疾跑后，会流出红色的汗水",
 		"star":3,
-		"add_type":1,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":1,
+		"add_min":1,
+		"add_max":50
 	},
 	"170":{
 		"id":170,
 		"name":"铁骑马",
 		"des":"多用于铁骑兵的战马",
 		"star":3,
-		"add_type":2,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":2,
+		"add_min":1,
+		"add_max":50
 	},
 	"171":{
 		"id":171,
 		"name":"枣红马",
 		"des":"一匹枣红色毛发的马",
 		"star":3,
-		"add_type":3,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":3,
+		"add_min":1,
+		"add_max":50
 	},
 	"172":{
 		"id":172,
 		"name":"黄骠马",
 		"des":"一种黄毛夹杂着白点子的马",
 		"star":3,
-		"add_type":4,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":4,
+		"add_min":1,
+		"add_max":50
 	},
 	"173":{
 		"id":173,
 		"name":"河曲马",
 		"des":"产于黄河上游第一河曲处的马",
 		"star":3,
-		"add_type":1,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":1,
+		"add_min":1,
+		"add_max":50
 	},
 	"174":{
 		"id":174,
 		"name":"西南马",
 		"des":"一种性情灵敏而温驯，善于爬山的马",
 		"star":3,
-		"add_type":2,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":2,
+		"add_min":1,
+		"add_max":50
 	},
 	"175":{
 		"id":175,
 		"name":"三河马",
 		"des":"一种动作灵敏、速度快、耐力强的名马",
 		"star":3,
-		"add_type":3,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":3,
+		"add_min":1,
+		"add_max":50
 	},
 	"176":{
 		"id":176,
 		"name":"伊犁马",
 		"des":"头颈高昂，四肢强健的马种",
 		"star":3,
-		"add_type":4,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":4,
+		"add_min":1,
+		"add_max":50
 	},
 	"177":{
 		"id":177,
 		"name":"山丹马",
 		"des":"著名的马场生产的马",
 		"star":3,
-		"add_type":1,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":1,
+		"add_min":1,
+		"add_max":50
 	},
 	"178":{
 		"id":178,
 		"name":"柏布马",
 		"des":"可以作为上等的战马使用",
 		"star":3,
-		"add_type":2,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":2,
+		"add_min":1,
+		"add_max":50
 	},
 	"179":{
 		"id":179,
 		"name":"混血马",
 		"des":"速度更快耐力更强的混血马",
 		"star":3,
-		"add_type":3,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":3,
+		"add_min":1,
+		"add_max":50
 	},
 	"180":{
 		"id":180,
 		"name":"黑鬃黄马",
 		"des":"一匹黑色鬃毛的马",
 		"star":2,
-		"add_type":4,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":4,
+		"add_min":1,
+		"add_max":50
 	},
 	"181":{
 		"id":181,
 		"name":"褐鬃马",
 		"des":"一匹褐色鬃毛的马",
 		"star":2,
-		"add_type":1,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":1,
+		"add_min":1,
+		"add_max":50
 	},
 	"182":{
 		"id":182,
 		"name":"紫鬃黑马",
 		"des":"一匹紫色鬃毛的马",
 		"star":2,
-		"add_type":2,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":2,
+		"add_min":1,
+		"add_max":50
 	},
 	"183":{
 		"id":183,
 		"name":"黑鬃赤马",
 		"des":"一匹黑色鬃毛的马",
 		"star":2,
-		"add_type":3,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":3,
+		"add_min":1,
+		"add_max":50
 	},
 	"184":{
 		"id":184,
 		"name":"褐鬃白马",
 		"des":"一匹褐色鬃毛的白马",
 		"star":2,
-		"add_type":4,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":4,
+		"add_min":1,
+		"add_max":50
 	},
 	"185":{
 		"id":185,
 		"name":"火鬃马",
 		"des":"一匹鬃毛和火焰一样鲜艳的马",
 		"star":2,
-		"add_type":1,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":1,
+		"add_min":1,
+		"add_max":50
 	},
 	"186":{
 		"id":186,
 		"name":"花鬃马",
 		"des":"一匹花色鬃毛的马",
 		"star":2,
-		"add_type":2,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":2,
+		"add_min":1,
+		"add_max":50
 	},
 	"187":{
 		"id":187,
 		"name":"黄鬃马",
 		"des":"一匹黄色鬃毛的马",
 		"star":2,
-		"add_type":3,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":3,
+		"add_min":1,
+		"add_max":50
 	},
 	"188":{
 		"id":188,
 		"name":"黑马",
 		"des":"一匹普普通通的黑马",
 		"star":1,
-		"add_type":4,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":4,
+		"add_min":1,
+		"add_max":50
 	},
 	"189":{
 		"id":189,
 		"name":"红马",
 		"des":"一匹普普通通的红马",
 		"star":1,
-		"add_type":1,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":1,
+		"add_min":1,
+		"add_max":50
 	},
 	"190":{
 		"id":190,
 		"name":"白马",
 		"des":"一匹普普通通的白马",
 		"star":1,
-		"add_type":2,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":2,
+		"add_min":1,
+		"add_max":50
 	},
 	"191":{
 		"id":191,
 		"name":"马5",
 		"des":"这是一匹隐形的马",
 		"star":1,
-		"add_type":3,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":3,
+		"add_min":1,
+		"add_max":50
 	},
 	"192":{
 		"id":192,
 		"name":"马6",
 		"des":"这是一匹隐形的马",
 		"star":1,
-		"add_type":4,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":4,
+		"add_min":1,
+		"add_max":50
 	},
 	"193":{
 		"id":193,
 		"name":"马7",
 		"des":"这是一匹隐形的马",
 		"star":1,
-		"add_type":1,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":1,
+		"add_min":1,
+		"add_max":50
 	},
 	"194":{
 		"id":194,
 		"name":"马8",
 		"des":"这是一匹隐形的马",
 		"star":1,
-		"add_type":2,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":2,
+		"add_min":1,
+		"add_max":50
 	},
 	"195":{
 		"id":195,
 		"name":"马9",
 		"des":"这是一匹隐形的马",
 		"star":1,
-		"add_type":3,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":3,
+		"add_min":1,
+		"add_max":50
 	},
 	"196":{
 		"id":196,
 		"name":"瘸马",
 		"des":"这是一匹瘸马",
 		"star":1,
-		"add_type":4,
-		"add_info_min":1,
-		"add_info_max":50
+		"type":4,
+		"add_min":1,
+		"add_max":50
 	}
 }
