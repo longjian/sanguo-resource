@@ -38,5 +38,6 @@
 	"exp_scale":1,
 	"money_upper":100000000,
 	"cash_upper":10000000,
-	"zhenfa_curve":[1,2,3,4,5]
+	"zhenfa_curve":[1,2,3,4,5],
+	"pk_list_range":[0,50,100,150,500]
 }
