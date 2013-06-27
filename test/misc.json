@@ -7,9 +7,9 @@
 	"pk_display_cnt":20,
 	"msg_display_cnt":30,
 	"strengthen_money":100,
-	"rob_frag_prob":.6,
-	"rob_treasure_prob":.5,
-	"pk_item_prob":.5,
+	"rob_frag_prob":0.6,
+	"rob_treasure_prob":0.5,
+	"pk_item_prob":0.5,
 	"invits_per_day":100,
 	"msg_per_day":100,
 	"general_upper":200,
@@ -19,7 +19,7 @@
 	"treasure_upper":200,
 	"fragment_upper":200,
 	"init_level":1,
-	"init_exp":0,
+	"init_exp":00,
 	"init_money":1000,
 	"init_cash":50,
 	"init_generals":[9,25,34],
@@ -39,5 +39,6 @@
 	"money_upper":100000000,
 	"cash_upper":10000000,
 	"zhenfa_curve":[1,2,3,4,5],
-	"pk_list_range":[0,50,100,150,500]
+	"pk_list_range":[0,50,100,150,500],
+	"pk_money_rate":0.25
 }
