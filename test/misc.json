@@ -1,4 +1,4 @@
-{
+﻿{
 	"energy_recover_time":180,
 	"vigour_recover_time":3600,
 	"free_speak_time":50,
@@ -17,7 +17,9 @@
 	"armor_upper":200,
 	"mount_upper":200,
 	"treasure_upper":200,
-	"fragment_upper":200,
+	"zhenfa_upper":200,
+	"treasure_frag_upper":200,
+	"zhenfa_frag_upper":200,
 	"init_level":1,
 	"init_exp":0,
 	"init_money":1000,
