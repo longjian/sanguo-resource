@@ -1,9 +1,24 @@
-{
-	"weights":[int,int,...],
-	"five_star":[[int,int,...],[int,int,...],...],
-	"four_star":[[int,int,...],[int,int,...],...],
-	"three_star":[[int,int,...],[int,int,...],...],
-	"two_star":[[int,int,...],[int,int,...],...],
-	"one_star":[[int,int,...],[int,int,...],...],
-	"extension":[]
-}
+[
+	{
+		"star":5,
+		"prob":0.0005,
+		"items":[
+			{
+				"type":1,
+				"tid":1
+			},
+			...
+		]
+	},
+	{
+		"star":4,
+		"prob":0.001,
+		"items":[
+			{
+				"type":2,
+				"tid":2
+			},...
+		]
+	},...
+
+]
