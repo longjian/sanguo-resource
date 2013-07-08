@@ -1,0 +1,11 @@
+[
+	{
+		"id":int,
+		"max_tims":int,
+		"items":[{
+			"type":int,
+			"id":int,
+			"cnt":int
+		},...]
+	},...
+]
