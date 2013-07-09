@@ -56,12 +56,12 @@
 		"max_times":1,
 		"items":[
 		{
-			"type":20,
+			"type":9,
 			"tid":0,
 			"cnt":1000
 		},
 		{
-			"type":21,
+			"type":10,
 			"tid":0,
 			"cnt":100
 		},
