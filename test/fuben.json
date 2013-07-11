@@ -3,9 +3,8 @@
 		"id":1,
 		"name":"蜀国",
 		"des":"蜀国副本",
-		"battles":{
-			"1":{
-			"id":1,
+		"battles":[
+			{"id":1,
 			"name":"宛城之战",
 			"bosses":[
 				{
@@ -48,7 +47,7 @@
 				"exp":6,
 				"money":50,
 				"battle_type":1,
-				"cast":[40,{"gid":9,"level":13},{"gid":5,"level":13},{"gid":1,"level":13},{"gid":2,"level":13},{"gid":60,"level":13},{"gid":35,"level":13},{"gid":33,"level":13},{"gid":88,"level":13}],
+				"cast":[40,{"gid":99,"level":1}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -65,8 +64,7 @@
 				}
 		]
 	},
-			"2":{
-			"id":2,
+			{"id":2,
 			"name":"长坂坡之战",
 			"bosses":[
 				{
@@ -126,8 +124,7 @@
 				}
 		]
 	},
-			"3":{
-			"id":3,
+			{"id":3,
 			"name":"官渡之战",
 			"bosses":[
 				{
@@ -187,8 +184,7 @@
 				}
 		]
 	},
-			"4":{
-			"id":4,
+			{"id":4,
 			"name":"赤壁之战",
 			"bosses":[
 				{
@@ -248,8 +244,7 @@
 				}
 		]
 	},
-			"5":{
-			"id":5,
+			{"id":5,
 			"name":"落凤坡之战",
 			"bosses":[
 				{
@@ -309,8 +304,7 @@
 				}
 		]
 	},
-			"6":{
-			"id":6,
+			{"id":6,
 			"name":"夷陵之战",
 			"bosses":[
 				{
@@ -370,8 +364,7 @@
 				}
 		]
 	},
-			"7":{
-			"id":7,
+			{"id":7,
 			"name":"樊城之战",
 			"bosses":[
 				{
@@ -403,7 +396,7 @@
 				"exp":33,
 				"money":110,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":31}],
+				"cast":[481,{"gid":9,"level":31},{"gid":5,"level":42},{"gid":1,"level":31},{"gid":2,"level":31},{"gid":60,"level":31},{"gid":35,"level":31},{"gid":33,"level":31},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -414,7 +407,7 @@
 				"exp":33,
 				"money":110,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":32}],
+				"cast":[482,{"gid":9,"level":32},{"gid":5,"level":43},{"gid":1,"level":32},{"gid":2,"level":32},{"gid":60,"level":32},{"gid":35,"level":32},{"gid":33,"level":32},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -425,14 +418,13 @@
 				"exp":51,
 				"money":550,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":33}],
+				"cast":[483,{"gid":9,"level":33},{"gid":5,"level":44},{"gid":1,"level":33},{"gid":2,"level":33},{"gid":60,"level":33},{"gid":35,"level":33},{"gid":33,"level":33},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"8":{
-			"id":8,
+			{"id":8,
 			"name":"七擒孟获",
 			"bosses":[
 				{
@@ -442,7 +434,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":34}],
+				"cast":[484,{"gid":9,"level":34},{"gid":5,"level":45},{"gid":1,"level":34},{"gid":2,"level":34},{"gid":60,"level":34},{"gid":35,"level":34},{"gid":33,"level":34},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -453,7 +445,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":35}],
+				"cast":[485,{"gid":9,"level":35},{"gid":5,"level":46},{"gid":1,"level":35},{"gid":2,"level":35},{"gid":60,"level":35},{"gid":35,"level":35},{"gid":33,"level":35},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -464,7 +456,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":36}],
+				"cast":[486,{"gid":9,"level":36},{"gid":5,"level":47},{"gid":1,"level":36},{"gid":2,"level":36},{"gid":60,"level":36},{"gid":35,"level":36},{"gid":33,"level":36},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -475,7 +467,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":37}],
+				"cast":[487,{"gid":9,"level":37},{"gid":5,"level":48},{"gid":1,"level":37},{"gid":2,"level":37},{"gid":60,"level":37},{"gid":35,"level":37},{"gid":33,"level":37},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -486,14 +478,13 @@
 				"exp":54,
 				"money":600,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":38}],
+				"cast":[488,{"gid":9,"level":38},{"gid":5,"level":49},{"gid":1,"level":38},{"gid":2,"level":38},{"gid":60,"level":38},{"gid":35,"level":38},{"gid":33,"level":38},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"9":{
-			"id":9,
+			{"id":9,
 			"name":"六出祁山",
 			"bosses":[
 				{
@@ -503,7 +494,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":39}],
+				"cast":[489,{"gid":9,"level":39},{"gid":5,"level":50},{"gid":1,"level":39},{"gid":2,"level":39},{"gid":60,"level":39},{"gid":35,"level":39},{"gid":33,"level":39},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -514,7 +505,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":40}],
+				"cast":[490,{"gid":9,"level":40},{"gid":5,"level":51},{"gid":1,"level":40},{"gid":2,"level":40},{"gid":60,"level":40},{"gid":35,"level":40},{"gid":33,"level":40},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -525,7 +516,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":41}],
+				"cast":[491,{"gid":9,"level":41},{"gid":5,"level":52},{"gid":1,"level":41},{"gid":2,"level":41},{"gid":60,"level":41},{"gid":35,"level":41},{"gid":33,"level":41},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -536,7 +527,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":42}],
+				"cast":[492,{"gid":9,"level":42},{"gid":5,"level":53},{"gid":1,"level":42},{"gid":2,"level":42},{"gid":60,"level":42},{"gid":35,"level":42},{"gid":33,"level":42},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -547,14 +538,13 @@
 				"exp":60,
 				"money":650,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":43}],
+				"cast":[493,{"gid":9,"level":43},{"gid":5,"level":54},{"gid":1,"level":43},{"gid":2,"level":43},{"gid":60,"level":43},{"gid":35,"level":43},{"gid":33,"level":43},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"10":{
-			"id":10,
+			{"id":10,
 			"name":"汉中之战",
 			"bosses":[
 				{
@@ -564,7 +554,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":44}],
+				"cast":[494,{"gid":9,"level":44},{"gid":5,"level":55},{"gid":1,"level":44},{"gid":2,"level":44},{"gid":60,"level":44},{"gid":35,"level":44},{"gid":33,"level":44},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -575,7 +565,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":45}],
+				"cast":[495,{"gid":9,"level":45},{"gid":5,"level":56},{"gid":1,"level":45},{"gid":2,"level":45},{"gid":60,"level":45},{"gid":35,"level":45},{"gid":33,"level":45},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -586,7 +576,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":46}],
+				"cast":[496,{"gid":9,"level":46},{"gid":5,"level":57},{"gid":1,"level":46},{"gid":2,"level":46},{"gid":60,"level":46},{"gid":35,"level":46},{"gid":33,"level":46},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -597,7 +587,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":47}],
+				"cast":[497,{"gid":9,"level":47},{"gid":5,"level":58},{"gid":1,"level":47},{"gid":2,"level":47},{"gid":60,"level":47},{"gid":35,"level":47},{"gid":33,"level":47},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -608,22 +598,21 @@
 				"exp":66,
 				"money":700,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":48}],
+				"cast":[498,{"gid":9,"level":48},{"gid":5,"level":59},{"gid":1,"level":48},{"gid":2,"level":48},{"gid":60,"level":48},{"gid":35,"level":48},{"gid":33,"level":48},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	}
-		}
+		]
 	},
 	{
 		"id":2,
 		"name":"魏国",
 		"des":"魏国副本",
-		"battles":{
-			"11":{
-			"id":11,
-			"name":"宛城之战",
+		"battles":[
+			{"id":1,
+			"name":"黄巾之乱",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -682,9 +671,8 @@
 				}
 		]
 	},
-			"12":{
-			"id":12,
-			"name":"长坂坡之战",
+			{"id":2,
+			"name":"讨伐董卓",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -743,9 +731,8 @@
 				}
 		]
 	},
-			"13":{
-			"id":13,
-			"name":"官渡之战",
+			{"id":3,
+			"name":"魂断下邳",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -804,9 +791,8 @@
 				}
 		]
 	},
-			"14":{
-			"id":14,
-			"name":"赤壁之战",
+			{"id":4,
+			"name":"直取徐州",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -865,9 +851,8 @@
 				}
 		]
 	},
-			"15":{
-			"id":15,
-			"name":"落凤坡之战",
+			{"id":5,
+			"name":"官渡之战",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -898,7 +883,7 @@
 				"exp":33,
 				"money":110,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":31}],
+				"cast":[481,{"gid":9,"level":31},{"gid":5,"level":42},{"gid":1,"level":31},{"gid":2,"level":31},{"gid":60,"level":31},{"gid":35,"level":31},{"gid":33,"level":31},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -909,7 +894,7 @@
 				"exp":33,
 				"money":110,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":32}],
+				"cast":[482,{"gid":9,"level":32},{"gid":5,"level":43},{"gid":1,"level":32},{"gid":2,"level":32},{"gid":60,"level":32},{"gid":35,"level":32},{"gid":33,"level":32},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -920,15 +905,14 @@
 				"exp":51,
 				"money":550,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":33}],
+				"cast":[483,{"gid":9,"level":33},{"gid":5,"level":44},{"gid":1,"level":33},{"gid":2,"level":33},{"gid":60,"level":33},{"gid":35,"level":33},{"gid":33,"level":33},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"16":{
-			"id":16,
-			"name":"夷陵之战",
+			{"id":6,
+			"name":"平定辽东",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -937,7 +921,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":34}],
+				"cast":[484,{"gid":9,"level":34},{"gid":5,"level":45},{"gid":1,"level":34},{"gid":2,"level":34},{"gid":60,"level":34},{"gid":35,"level":34},{"gid":33,"level":34},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -948,7 +932,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":35}],
+				"cast":[485,{"gid":9,"level":35},{"gid":5,"level":46},{"gid":1,"level":35},{"gid":2,"level":35},{"gid":60,"level":35},{"gid":35,"level":35},{"gid":33,"level":35},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -959,7 +943,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":36}],
+				"cast":[486,{"gid":9,"level":36},{"gid":5,"level":47},{"gid":1,"level":36},{"gid":2,"level":36},{"gid":60,"level":36},{"gid":35,"level":36},{"gid":33,"level":36},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -970,7 +954,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":37}],
+				"cast":[487,{"gid":9,"level":37},{"gid":5,"level":48},{"gid":1,"level":37},{"gid":2,"level":37},{"gid":60,"level":37},{"gid":35,"level":37},{"gid":33,"level":37},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -981,15 +965,14 @@
 				"exp":54,
 				"money":600,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":38}],
+				"cast":[488,{"gid":9,"level":38},{"gid":5,"level":49},{"gid":1,"level":38},{"gid":2,"level":38},{"gid":60,"level":38},{"gid":35,"level":38},{"gid":33,"level":38},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"17":{
-			"id":17,
-			"name":"樊城之战",
+			{"id":7,
+			"name":"长坂坡之战",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -998,7 +981,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":39}],
+				"cast":[489,{"gid":9,"level":39},{"gid":5,"level":50},{"gid":1,"level":39},{"gid":2,"level":39},{"gid":60,"level":39},{"gid":35,"level":39},{"gid":33,"level":39},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1009,7 +992,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":40}],
+				"cast":[490,{"gid":9,"level":40},{"gid":5,"level":51},{"gid":1,"level":40},{"gid":2,"level":40},{"gid":60,"level":40},{"gid":35,"level":40},{"gid":33,"level":40},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1020,7 +1003,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":41}],
+				"cast":[491,{"gid":9,"level":41},{"gid":5,"level":52},{"gid":1,"level":41},{"gid":2,"level":41},{"gid":60,"level":41},{"gid":35,"level":41},{"gid":33,"level":41},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1031,7 +1014,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":42}],
+				"cast":[492,{"gid":9,"level":42},{"gid":5,"level":53},{"gid":1,"level":42},{"gid":2,"level":42},{"gid":60,"level":42},{"gid":35,"level":42},{"gid":33,"level":42},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1042,15 +1025,14 @@
 				"exp":60,
 				"money":650,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":43}],
+				"cast":[493,{"gid":9,"level":43},{"gid":5,"level":54},{"gid":1,"level":43},{"gid":2,"level":43},{"gid":60,"level":43},{"gid":35,"level":43},{"gid":33,"level":43},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"18":{
-			"id":18,
-			"name":"七擒孟获",
+			{"id":8,
+			"name":"赤壁之战",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1059,7 +1041,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":44}],
+				"cast":[494,{"gid":9,"level":44},{"gid":5,"level":55},{"gid":1,"level":44},{"gid":2,"level":44},{"gid":60,"level":44},{"gid":35,"level":44},{"gid":33,"level":44},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1070,7 +1052,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":45}],
+				"cast":[495,{"gid":9,"level":45},{"gid":5,"level":56},{"gid":1,"level":45},{"gid":2,"level":45},{"gid":60,"level":45},{"gid":35,"level":45},{"gid":33,"level":45},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1081,7 +1063,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":46}],
+				"cast":[496,{"gid":9,"level":46},{"gid":5,"level":57},{"gid":1,"level":46},{"gid":2,"level":46},{"gid":60,"level":46},{"gid":35,"level":46},{"gid":33,"level":46},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1092,7 +1074,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":47}],
+				"cast":[497,{"gid":9,"level":47},{"gid":5,"level":58},{"gid":1,"level":47},{"gid":2,"level":47},{"gid":60,"level":47},{"gid":35,"level":47},{"gid":33,"level":47},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1103,15 +1085,14 @@
 				"exp":66,
 				"money":700,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":48}],
+				"cast":[498,{"gid":9,"level":48},{"gid":5,"level":59},{"gid":1,"level":48},{"gid":2,"level":48},{"gid":60,"level":48},{"gid":35,"level":48},{"gid":33,"level":48},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"19":{
-			"id":19,
-			"name":"六出祁山",
+			{"id":9,
+			"name":"马超之战",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1153,7 +1134,7 @@
 				"exp":6,
 				"money":50,
 				"battle_type":1,
-				"cast":[40,{"gid":9,"level":13},{"gid":5,"level":13},{"gid":1,"level":13},{"gid":2,"level":13},{"gid":60,"level":13},{"gid":35,"level":13},{"gid":33,"level":13},{"gid":88,"level":13}],
+				"cast":[40,{"gid":99,"level":1}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1170,9 +1151,8 @@
 				}
 		]
 	},
-			"20":{
-			"id":20,
-			"name":"汉中之战",
+			{"id":10,
+			"name":"平定汉中",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1231,16 +1211,15 @@
 				}
 		]
 	}
-		}
+		]
 	},
 	{
 		"id":3,
 		"name":"吴国",
 		"des":"吴国副本",
-		"battles":{
-			"21":{
-			"id":21,
-			"name":"宛城之战",
+		"battles":[
+			{"id":1,
+			"name":"黄巾之乱",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1299,9 +1278,8 @@
 				}
 		]
 	},
-			"22":{
-			"id":22,
-			"name":"长坂坡之战",
+			{"id":2,
+			"name":"讨伐董卓",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1360,9 +1338,8 @@
 				}
 		]
 	},
-			"23":{
-			"id":23,
-			"name":"官渡之战",
+			{"id":3,
+			"name":"跨江战刘表",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1393,7 +1370,7 @@
 				"exp":33,
 				"money":110,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":31}],
+				"cast":[481,{"gid":9,"level":31},{"gid":5,"level":42},{"gid":1,"level":31},{"gid":2,"level":31},{"gid":60,"level":31},{"gid":35,"level":31},{"gid":33,"level":31},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1404,7 +1381,7 @@
 				"exp":33,
 				"money":110,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":32}],
+				"cast":[482,{"gid":9,"level":32},{"gid":5,"level":43},{"gid":1,"level":32},{"gid":2,"level":32},{"gid":60,"level":32},{"gid":35,"level":32},{"gid":33,"level":32},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1415,15 +1392,14 @@
 				"exp":51,
 				"money":550,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":33}],
+				"cast":[483,{"gid":9,"level":33},{"gid":5,"level":44},{"gid":1,"level":33},{"gid":2,"level":33},{"gid":60,"level":33},{"gid":35,"level":33},{"gid":33,"level":33},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"24":{
-			"id":24,
-			"name":"赤壁之战",
+			{"id":4,
+			"name":"平江东",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1432,7 +1408,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":34}],
+				"cast":[484,{"gid":9,"level":34},{"gid":5,"level":45},{"gid":1,"level":34},{"gid":2,"level":34},{"gid":60,"level":34},{"gid":35,"level":34},{"gid":33,"level":34},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1443,7 +1419,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":35}],
+				"cast":[485,{"gid":9,"level":35},{"gid":5,"level":46},{"gid":1,"level":35},{"gid":2,"level":35},{"gid":60,"level":35},{"gid":35,"level":35},{"gid":33,"level":35},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1454,7 +1430,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":36}],
+				"cast":[486,{"gid":9,"level":36},{"gid":5,"level":47},{"gid":1,"level":36},{"gid":2,"level":36},{"gid":60,"level":36},{"gid":35,"level":36},{"gid":33,"level":36},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1465,7 +1441,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":37}],
+				"cast":[487,{"gid":9,"level":37},{"gid":5,"level":48},{"gid":1,"level":37},{"gid":2,"level":37},{"gid":60,"level":37},{"gid":35,"level":37},{"gid":33,"level":37},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1476,15 +1452,14 @@
 				"exp":54,
 				"money":600,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":38}],
+				"cast":[488,{"gid":9,"level":38},{"gid":5,"level":49},{"gid":1,"level":38},{"gid":2,"level":38},{"gid":60,"level":38},{"gid":35,"level":38},{"gid":33,"level":38},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"25":{
-			"id":25,
-			"name":"落凤坡之战",
+			{"id":5,
+			"name":"赤壁之战",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1493,7 +1468,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":39}],
+				"cast":[489,{"gid":9,"level":39},{"gid":5,"level":50},{"gid":1,"level":39},{"gid":2,"level":39},{"gid":60,"level":39},{"gid":35,"level":39},{"gid":33,"level":39},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1504,7 +1479,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":40}],
+				"cast":[490,{"gid":9,"level":40},{"gid":5,"level":51},{"gid":1,"level":40},{"gid":2,"level":40},{"gid":60,"level":40},{"gid":35,"level":40},{"gid":33,"level":40},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1515,7 +1490,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":41}],
+				"cast":[491,{"gid":9,"level":41},{"gid":5,"level":52},{"gid":1,"level":41},{"gid":2,"level":41},{"gid":60,"level":41},{"gid":35,"level":41},{"gid":33,"level":41},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1526,7 +1501,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":42}],
+				"cast":[492,{"gid":9,"level":42},{"gid":5,"level":53},{"gid":1,"level":42},{"gid":2,"level":42},{"gid":60,"level":42},{"gid":35,"level":42},{"gid":33,"level":42},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1537,15 +1512,14 @@
 				"exp":60,
 				"money":650,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":43}],
+				"cast":[493,{"gid":9,"level":43},{"gid":5,"level":54},{"gid":1,"level":43},{"gid":2,"level":43},{"gid":60,"level":43},{"gid":35,"level":43},{"gid":33,"level":43},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"26":{
-			"id":26,
-			"name":"夷陵之战",
+			{"id":6,
+			"name":"大战张辽",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1554,7 +1528,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":44}],
+				"cast":[494,{"gid":9,"level":44},{"gid":5,"level":55},{"gid":1,"level":44},{"gid":2,"level":44},{"gid":60,"level":44},{"gid":35,"level":44},{"gid":33,"level":44},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1565,7 +1539,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":45}],
+				"cast":[495,{"gid":9,"level":45},{"gid":5,"level":56},{"gid":1,"level":45},{"gid":2,"level":45},{"gid":60,"level":45},{"gid":35,"level":45},{"gid":33,"level":45},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1576,7 +1550,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":46}],
+				"cast":[496,{"gid":9,"level":46},{"gid":5,"level":57},{"gid":1,"level":46},{"gid":2,"level":46},{"gid":60,"level":46},{"gid":35,"level":46},{"gid":33,"level":46},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1587,7 +1561,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":47}],
+				"cast":[497,{"gid":9,"level":47},{"gid":5,"level":58},{"gid":1,"level":47},{"gid":2,"level":47},{"gid":60,"level":47},{"gid":35,"level":47},{"gid":33,"level":47},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1598,15 +1572,14 @@
 				"exp":66,
 				"money":700,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":48}],
+				"cast":[498,{"gid":9,"level":48},{"gid":5,"level":59},{"gid":1,"level":48},{"gid":2,"level":48},{"gid":60,"level":48},{"gid":35,"level":48},{"gid":33,"level":48},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"27":{
-			"id":27,
-			"name":"樊城之战",
+			{"id":7,
+			"name":"袭取荆州",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1648,7 +1621,7 @@
 				"exp":6,
 				"money":50,
 				"battle_type":1,
-				"cast":[40,{"gid":9,"level":13},{"gid":5,"level":13},{"gid":1,"level":13},{"gid":2,"level":13},{"gid":60,"level":13},{"gid":35,"level":13},{"gid":33,"level":13},{"gid":88,"level":13}],
+				"cast":[40,{"gid":99,"level":1}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1665,9 +1638,8 @@
 				}
 		]
 	},
-			"28":{
-			"id":28,
-			"name":"七擒孟获",
+			{"id":8,
+			"name":"夷陵之战",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1726,9 +1698,8 @@
 				}
 		]
 	},
-			"29":{
-			"id":29,
-			"name":"六出祁山",
+			{"id":9,
+			"name":"火烧连营",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1787,9 +1758,8 @@
 				}
 		]
 	},
-			"30":{
-			"id":30,
-			"name":"汉中之战",
+			{"id":10,
+			"name":"合肥之战",
 			"bosses":[
 				{
 				"name":"张飞",
@@ -1848,15 +1818,14 @@
 				}
 		]
 	}
-		}
+		]
 	},
 	{
 		"id":4,
 		"name":"群雄",
 		"des":"群雄副本",
-		"battles":{
-			"31":{
-			"id":31,
+		"battles":[
+			{"id":1,
 			"name":"宛城之战",
 			"bosses":[
 				{
@@ -1888,7 +1857,7 @@
 				"exp":33,
 				"money":110,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":31}],
+				"cast":[481,{"gid":9,"level":31},{"gid":5,"level":42},{"gid":1,"level":31},{"gid":2,"level":31},{"gid":60,"level":31},{"gid":35,"level":31},{"gid":33,"level":31},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1899,7 +1868,7 @@
 				"exp":33,
 				"money":110,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":32}],
+				"cast":[482,{"gid":9,"level":32},{"gid":5,"level":43},{"gid":1,"level":32},{"gid":2,"level":32},{"gid":60,"level":32},{"gid":35,"level":32},{"gid":33,"level":32},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1910,14 +1879,13 @@
 				"exp":51,
 				"money":550,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":33}],
+				"cast":[483,{"gid":9,"level":33},{"gid":5,"level":44},{"gid":1,"level":33},{"gid":2,"level":33},{"gid":60,"level":33},{"gid":35,"level":33},{"gid":33,"level":33},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"32":{
-			"id":32,
+			{"id":2,
 			"name":"长坂坡之战",
 			"bosses":[
 				{
@@ -1927,7 +1895,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":34}],
+				"cast":[484,{"gid":9,"level":34},{"gid":5,"level":45},{"gid":1,"level":34},{"gid":2,"level":34},{"gid":60,"level":34},{"gid":35,"level":34},{"gid":33,"level":34},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1938,7 +1906,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":35}],
+				"cast":[485,{"gid":9,"level":35},{"gid":5,"level":46},{"gid":1,"level":35},{"gid":2,"level":35},{"gid":60,"level":35},{"gid":35,"level":35},{"gid":33,"level":35},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1949,7 +1917,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":36}],
+				"cast":[486,{"gid":9,"level":36},{"gid":5,"level":47},{"gid":1,"level":36},{"gid":2,"level":36},{"gid":60,"level":36},{"gid":35,"level":36},{"gid":33,"level":36},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1960,7 +1928,7 @@
 				"exp":39,
 				"money":120,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":37}],
+				"cast":[487,{"gid":9,"level":37},{"gid":5,"level":48},{"gid":1,"level":37},{"gid":2,"level":37},{"gid":60,"level":37},{"gid":35,"level":37},{"gid":33,"level":37},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1971,14 +1939,13 @@
 				"exp":54,
 				"money":600,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":38}],
+				"cast":[488,{"gid":9,"level":38},{"gid":5,"level":49},{"gid":1,"level":38},{"gid":2,"level":38},{"gid":60,"level":38},{"gid":35,"level":38},{"gid":33,"level":38},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"33":{
-			"id":33,
+			{"id":3,
 			"name":"官渡之战",
 			"bosses":[
 				{
@@ -1988,7 +1955,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":39}],
+				"cast":[489,{"gid":9,"level":39},{"gid":5,"level":50},{"gid":1,"level":39},{"gid":2,"level":39},{"gid":60,"level":39},{"gid":35,"level":39},{"gid":33,"level":39},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -1999,7 +1966,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":40}],
+				"cast":[490,{"gid":9,"level":40},{"gid":5,"level":51},{"gid":1,"level":40},{"gid":2,"level":40},{"gid":60,"level":40},{"gid":35,"level":40},{"gid":33,"level":40},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -2010,7 +1977,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":41}],
+				"cast":[491,{"gid":9,"level":41},{"gid":5,"level":52},{"gid":1,"level":41},{"gid":2,"level":41},{"gid":60,"level":41},{"gid":35,"level":41},{"gid":33,"level":41},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -2021,7 +1988,7 @@
 				"exp":45,
 				"money":130,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":42}],
+				"cast":[492,{"gid":9,"level":42},{"gid":5,"level":53},{"gid":1,"level":42},{"gid":2,"level":42},{"gid":60,"level":42},{"gid":35,"level":42},{"gid":33,"level":42},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -2032,14 +1999,13 @@
 				"exp":60,
 				"money":650,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":43}],
+				"cast":[493,{"gid":9,"level":43},{"gid":5,"level":54},{"gid":1,"level":43},{"gid":2,"level":43},{"gid":60,"level":43},{"gid":35,"level":43},{"gid":33,"level":43},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"34":{
-			"id":34,
+			{"id":4,
 			"name":"赤壁之战",
 			"bosses":[
 				{
@@ -2049,7 +2015,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":44}],
+				"cast":[494,{"gid":9,"level":44},{"gid":5,"level":55},{"gid":1,"level":44},{"gid":2,"level":44},{"gid":60,"level":44},{"gid":35,"level":44},{"gid":33,"level":44},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -2060,7 +2026,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":45}],
+				"cast":[495,{"gid":9,"level":45},{"gid":5,"level":56},{"gid":1,"level":45},{"gid":2,"level":45},{"gid":60,"level":45},{"gid":35,"level":45},{"gid":33,"level":45},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -2071,7 +2037,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":46}],
+				"cast":[496,{"gid":9,"level":46},{"gid":5,"level":57},{"gid":1,"level":46},{"gid":2,"level":46},{"gid":60,"level":46},{"gid":35,"level":46},{"gid":33,"level":46},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -2082,7 +2048,7 @@
 				"exp":51,
 				"money":140,
 				"battle_type":1,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":47}],
+				"cast":[497,{"gid":9,"level":47},{"gid":5,"level":58},{"gid":1,"level":47},{"gid":2,"level":47},{"gid":60,"level":47},{"gid":35,"level":47},{"gid":33,"level":47},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -2093,14 +2059,13 @@
 				"exp":66,
 				"money":700,
 				"battle_type":0,
-				"cast":[480,{"gid":9,"level":30},{"gid":5,"level":41},{"gid":1,"level":30},{"gid":2,"level":30},{"gid":60,"level":30},{"gid":35,"level":30},{"gid":33,"level":30},{"gid":88,"level":48}],
+				"cast":[498,{"gid":9,"level":48},{"gid":5,"level":59},{"gid":1,"level":48},{"gid":2,"level":48},{"gid":60,"level":48},{"gid":35,"level":48},{"gid":33,"level":48},{"gid":88,"level":30}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				}
 		]
 	},
-			"35":{
-			"id":35,
+			{"id":5,
 			"name":"落凤坡之战",
 			"bosses":[
 				{
@@ -2143,7 +2108,7 @@
 				"exp":6,
 				"money":50,
 				"battle_type":1,
-				"cast":[40,{"gid":9,"level":13},{"gid":5,"level":13},{"gid":1,"level":13},{"gid":2,"level":13},{"gid":60,"level":13},{"gid":35,"level":13},{"gid":33,"level":13},{"gid":88,"level":13}],
+				"cast":[40,{"gid":99,"level":1}],
 				"talk":[{"pic":9,"content":"燕人张飞在此"}],
 				"reward":[{"tid":1,"type":1,"prob":0.1},{"tid":102,"type":3,"prob":0.1},{"tid":157,"type":4,"prob":0.1},{"tid":1,"type":2,"prob":0.1},{"tid":1,"type":6,"prob":0.1},{"tid":1,"type":7,"prob":0.1},{"tid":1,"type":5,"prob":0.1}]
 				},
@@ -2160,8 +2125,7 @@
 				}
 		]
 	},
-			"36":{
-			"id":36,
+			{"id":6,
 			"name":"夷陵之战",
 			"bosses":[
 				{
@@ -2221,8 +2185,7 @@
 				}
 		]
 	},
-			"37":{
-			"id":37,
+			{"id":7,
 			"name":"樊城之战",
 			"bosses":[
 				{
@@ -2282,8 +2245,7 @@
 				}
 		]
 	},
-			"38":{
-			"id":38,
+			{"id":8,
 			"name":"七擒孟获",
 			"bosses":[
 				{
@@ -2343,8 +2305,7 @@
 				}
 		]
 	},
-			"39":{
-			"id":39,
+			{"id":9,
 			"name":"六出祁山",
 			"bosses":[
 				{
@@ -2404,8 +2365,7 @@
 				}
 		]
 	},
-			"40":{
-			"id":40,
+			{"id":10,
 			"name":"汉中之战",
 			"bosses":[
 				{
@@ -2465,6 +2425,6 @@
 				}
 		]
 	}
-		}
+		]
 	}
 ]
