@@ -49,5 +49,9 @@
 	"zhenfa_friend":10,
 	"init_zhenfas":[1,2,3,4],
 	"fuben_reset_cash":[100,1000,10000,100000,1000000,500000],
-	"display_cnt":20
+	"display_cnt":20,
+	"money_color":[100,300],
+	"fuben_unlock":10,
+	"arena_unlock":20,
+	"kingdom_unlock":40
 }
