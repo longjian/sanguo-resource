@@ -1,0 +1,10 @@
+[
+	{
+		'title':string,
+		'content':string,
+		'btn':{
+			'txt':string,
+			'type':int
+		}
+	}
+]
