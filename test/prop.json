@@ -1,4 +1,4 @@
-{
+﻿{
 	"1":{
 		"id":1,
 		"name":"包子",
@@ -8,7 +8,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":11,
+		"add_type":23,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[10]
@@ -22,7 +22,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":11,
+		"add_type":23,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[50]
@@ -36,7 +36,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":11,
+		"add_type":23,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[100]
@@ -50,7 +50,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":12,
+		"add_type":24,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[3]
@@ -64,7 +64,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":12,
+		"add_type":24,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[-1]
@@ -78,7 +78,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":8,
+		"add_type":25,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[3600]
@@ -92,7 +92,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":9,
+		"add_type":20,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[3000]
@@ -106,7 +106,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":9,
+		"add_type":20,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[10000]
@@ -246,7 +246,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":7,
+		"add_type":12,
 		"add_method":2,
 		"add_tids":[21,3,5,22],
 		"add_extras":[1,5,5,1]
@@ -260,7 +260,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":7,
+		"add_type":12,
 		"add_method":2,
 		"add_tids":[2,3],
 		"add_extras":[5,5]
@@ -274,7 +274,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":7,
+		"add_type":12,
 		"add_method":2,
 		"add_tids":[4,5],
 		"add_extras":[5,5]
@@ -288,7 +288,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":7,
+		"add_type":12,
 		"add_method":2,
 		"add_tids":[12,13,14,11],
 		"add_extras":[1,1,1,1]
@@ -302,7 +302,7 @@
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
-		"add_type":7,
+		"add_type":12,
 		"add_method":2,
 		"add_tids":[7,8],
 		"add_extras":[5,5]
@@ -316,7 +316,7 @@
 		"rmb":6,
 		"product_id":"com.jike.sanguo.60yb",
 		"prop_type":1,
-		"add_type":10,
+		"add_type":21,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[60]
@@ -330,7 +330,7 @@
 		"rmb":30,
 		"product_id":"com.jike.sanguo.300yb",
 		"prop_type":1,
-		"add_type":10,
+		"add_type":21,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[400]
@@ -344,7 +344,7 @@
 		"rmb":128,
 		"product_id":"com.jike.sanguo.1280yb",
 		"prop_type":1,
-		"add_type":10,
+		"add_type":21,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[1920]
@@ -358,7 +358,7 @@
 		"rmb":648,
 		"product_id":"com.jike.sanguo.6480yb",
 		"prop_type":1,
-		"add_type":10,
+		"add_type":21,
 		"add_method":2,
 		"add_tids":[1],
 		"add_extras":[12960]
