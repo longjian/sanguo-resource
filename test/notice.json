@@ -9,9 +9,7 @@
 	},
 	{
 	"title":"活动二",
-	"content":"换行
-可以
-？",
+	"content":"换行\n可以\n？",
 		"btn":{
 		"txt":"好",
 		"type":2
