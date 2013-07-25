@@ -1906,9 +1906,9 @@
 	"113":{
 		"id":113,
 		"name":"",
-		"des":"和一同上阵，攻击+%",
+		"des":"和一同上阵，攻击+0%",
 		"condition":[],
-		"atk_add":,
+		"atk_add":0,
 		"def_add":0,
 		"country":0,
 		"country_atk_add":0,
@@ -1991,9 +1991,9 @@
 	"118":{
 		"id":118,
 		"name":"",
-		"des":"和一同上阵，攻击+%",
+		"des":"和一同上阵，攻击+0%",
 		"condition":[],
-		"atk_add":,
+		"atk_add":0,
 		"def_add":0,
 		"country":0,
 		"country_atk_add":0,
