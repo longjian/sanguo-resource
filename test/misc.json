@@ -7,7 +7,7 @@
 	"pk_display_cnt":20,
 	"msg_display_cnt":30,
 	"reinforce_money":100,
-	"rob_frag_prob":0.6,
+	"rob_frag_prob":[10,0.25,0.5,0.75],
 	"rob_treasure_prob":0.5,
 	"pk_item_prob":0.5,
 	"invits_per_day":100,
