@@ -376,5 +376,19 @@
 		"add_method":0,
 		"add_tids":[1],
 		"add_extras":[1]
+	},
+	"28":{
+		"id":28,
+		"name":"升星丹",
+		"des":"武将转生需要",
+		"money":0,
+		"cash":0,
+		"rmb":0,
+		"product_id":"0",
+		"prop_type":0,
+		"add_type":0,
+		"add_method":0,
+		"add_tids":[1],
+		"add_extras":[1]
 	}
 }
