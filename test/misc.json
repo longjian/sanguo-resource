@@ -60,5 +60,9 @@
 	"running_notice":["小明又进球了","今天21°晴天","滚动公告公告"],
 	"recycle_price":[10,20,30,40,100],
 	"upstar_material":[[30,2],[50,2],[100,2],[200,2],[300,2]],
-	"upstar_power":10
+	"upstar_power":10,
+	"base_list":[1,2,3,4,5,6,7,8,27,28],
+	"troops_list":[11,12,13,15,16,17],
+	"gift_bag_list":[9,10,18,19,20,21,22],
+	"charge_list":[23,24,25,26]
 }
