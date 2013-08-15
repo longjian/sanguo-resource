@@ -88,7 +88,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":153,"content":"惟贤惟德，以德服人 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -732,7 +732,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":155,"content":"啊啊~！ 燕人张飞在此！！！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -821,7 +821,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"实在是杀不动了。。。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -910,7 +910,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":100,"content":"知天易,逆天难！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1006,7 +1006,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"全军突击~~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1095,7 +1095,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"能进能退乃真正法器！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1184,7 +1184,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"难道这就是失败的滋味吗？ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1273,7 +1273,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"观今夜天象，知天下大事！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1369,7 +1369,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"将星陨落，天命难违。。。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1458,7 +1458,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"太极生两仪，两仪生四象，四象生八卦 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1547,7 +1547,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"百步穿杨！"}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1643,7 +1643,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"不得不服老啊~~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1732,7 +1732,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":91,"content":"燃烧吧！此火可助我军大获全胜！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1821,7 +1821,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":91,"content":"你可识得此阵？"}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1910,7 +1910,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"雕虫小计！你的计谋被识破了！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -1999,7 +1999,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"我的计谋竟被…… "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2088,7 +2088,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"伤一敌可连其百！通通连起来吧 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2177,7 +2177,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"凤雏岂能消亡？浴火重生！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2273,7 +2273,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":197,"content":"看来我命中注定将丧命于此…… "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2362,7 +2362,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我会怕你吗？！真是美味啊！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2451,7 +2451,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":106,"content":"谁敢杀我，啊…… "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2540,7 +2540,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":105,"content":"得人恩果千年记 ，滴水之恩，涌泉以报！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2636,7 +2636,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":82,"content":"谁敢得罪我？ 睚眦之怨，无不报复。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2725,7 +2725,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"给你的，十倍奉还给我！ 重用许靖，以眩远近。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2814,7 +2814,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":96,"content":"辅翼既折，蜀汉衰矣… "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2910,7 +2910,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":101,"content":"吾通晓兵法，世人皆知 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -2999,7 +2999,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"丞相视某如子，某以丞相为父。谡愿以死安大局。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3088,7 +3088,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":148,"content":"魏将何在？来人，护驾~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3177,7 +3177,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"宁教我负天下人,休教天下人负我！ 孤好梦中杀人！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3273,7 +3273,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"霸业未成…未成啊… "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3362,7 +3362,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":151,"content":"孤善于千里袭人！取汝首级犹如探囊取物！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3451,7 +3451,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"竟然……比我……还快~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3540,7 +3540,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我先休息一会！尽管来吧！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3636,7 +3636,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"实在是守不住了！~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3725,7 +3725,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"下次注意点！ 出来混，早晚要还的！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3814,7 +3814,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"天命？哈哈哈哈～ 吾乃天命之子！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3903,7 +3903,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"难道真的是天命难违？ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -3992,7 +3992,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":11,"content":"就这样吧~ 罢了 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4081,7 +4081,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"也好！就这样吧 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4177,7 +4177,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":148,"content":"没想到吧？！拿来吧~！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4266,7 +4266,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"真没想到。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4355,7 +4355,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"谁来和我大战300回合破！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4444,7 +4444,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"冷~好冷啊~~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4533,7 +4533,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"鼠辈,竟然伤我！以彼之道，还施彼身！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4629,7 +4629,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"两，两边都看不见啦~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4718,7 +4718,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":176,"content":"仿佛兮若轻云之蔽月，飘飘兮若流风之回雪。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4807,7 +4807,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":140,"content":"凌波微步，罗袜生尘。体恤飞服，飘忽若神 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4896,7 +4896,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"悼良会之永绝兮，哀一逝而异乡。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -4985,7 +4985,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":179,"content":"此乃驱虎吞狼之计！借你之手与他一搏吧！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5074,7 +5074,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":179,"content":"秉忠贞之志，守谦退之节…… 我…永不背弃 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5170,7 +5170,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"吃我一戟！看我三步之内取你小命！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5259,7 +5259,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"主公,快走…… "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5348,7 +5348,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"来来,一人一口 我喜欢 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5437,7 +5437,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"曹公之意,我已了然 食之无肉,弃之有味 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5526,7 +5526,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我故自已死之晚也 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5615,7 +5615,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":107,"content":"不先为备,何以待敌? 稳重行军,百战不殆! "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5711,7 +5711,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我...无颜面对丞相了 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5800,7 +5800,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"别着急哟，给我就好~ 这些都是我的！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5896,7 +5896,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"走马行酒礼，驱车不鱼肉。置酒高殿上，亲友从我游。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -5985,7 +5985,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":15,"content":"本是同根生，相煎何太急… "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6081,7 +6081,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":85,"content":"你的死活与我何干？无来无去，不悔不怨。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6170,7 +6170,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":93,"content":"无情者伤人，有情者自伤 自损八百，可伤敌一千 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6259,7 +6259,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"怎能如此对我 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6355,7 +6355,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"容我三思 且慢！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6444,7 +6444,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":107,"content":"好舒服呀~~ 有汝辅佐，甚好 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6533,7 +6533,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"父亲，大哥，仲谋愧也！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6622,7 +6622,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"挣扎吧，在血和暗的深渊里！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6711,7 +6711,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"哈哈哈哈~汝等给我看好了！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6800,7 +6800,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":1,"content":"请鞭挞我吧，公瑾！赴汤蹈火，在所不辞！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6896,7 +6896,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":105,"content":"失血过多了 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -6985,7 +6985,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"牌不是万能的，但是没牌是万万不能的。旧的不去，新的不来~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7074,7 +7074,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我还是太年轻了！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7163,7 +7163,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"夫君,身体要紧~ 他好我也好 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7252,7 +7252,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"哼~ 看我的厉害~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7348,7 +7348,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":13,"content":"不，还不可以死…… "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7437,7 +7437,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"请休息吧~ 你累了~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7526,7 +7526,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"交给你了~ 你来嘛~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7615,7 +7615,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"伯符，我去了。。。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7711,7 +7711,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"不是不报，时候未到！ 留得青山在，不怕没柴烧！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7800,7 +7800,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"被看穿了吗…… "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7889,7 +7889,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"你的牌太多啦！接招吧！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -7978,7 +7978,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":202,"content":"20年后,又是一条好汉！小乔"}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -8067,7 +8067,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":95,"content":"接住哦！~ 替我挡着！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -8156,7 +8156,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"公瑾，我先走一步了~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -8245,7 +8245,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"还不够！ 我绝不会倒下！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -8334,7 +8334,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":96,"content":"已经……尽力了！~ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -8423,7 +8423,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我当要替天行道！请助我一臂之力！ "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -8512,7 +8512,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":57,"content":"大丈夫当带三尺之剑，立不世之功…… "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -8601,7 +8601,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":202,"content":"伤敌于千里之外。索命于须臾之间。 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
@@ -8690,7 +8690,7 @@
 				"des":"2000银两",
 				"talk":[{"pic":188,"content":"大丈夫不惧死亡 "}],
 				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":01}]
+				"reward":[{"tid":2000,"type":20,"prob":1}]
 				}
 				}
 		}
