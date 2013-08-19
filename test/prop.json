@@ -73,8 +73,8 @@
 		"id":6,
 		"name":"求和信",
 		"des":"休战1小时",
-		"money":0,
-		"cash":30,
+		"money":1000,
+		"cash":0,
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":1,
@@ -282,16 +282,16 @@
 	"21":{
 		"id":21,
 		"name":"萌将礼包",
-		"des":"4张求贤榜（蜀魏吴群各1张）",
+		"des":"3张求贤榜（蜀魏吴各1张）",
 		"money":0,
-		"cash":300,
+		"cash":250,
 		"rmb":0,
 		"product_id":"0",
 		"prop_type":3,
 		"add_type":12,
 		"add_method":2,
-		"add_tids":[12,13,14,11],
-		"add_extras":[1,1,1,1]
+		"add_tids":[12,13,11],
+		"add_extras":[1,1,1]
 	},
 	"22":{
 		"id":22,
@@ -365,7 +365,7 @@
 	},
 	"27":{
 		"id":27,
-		"name":"超级大喇叭",
+		"name":"喇叭",
 		"des":"世界聊天发言使用",
 		"money":0,
 		"cash":1,
