@@ -67,5 +67,6 @@
 	"charge_list":[23,24,25,26],
 	"max_mission_level":5,
 	"trade_limit":3,
-	"trade_tax":0.1
+	"trade_tax":0.1,
+	"trade_star":3
 }
