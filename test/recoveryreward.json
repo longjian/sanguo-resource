@@ -1,12 +1,12 @@
 ﻿[
 	{
 		"id":1,
-		"start_time":"12:00",
-		"end_time":"13:00"
+		"start_time_hour":"12",
+		"end_time_hour":"13"
 	},
 	{
 		"id":2,
-		"start_time":"18:00",
-		"end_time":"19:00"
+		"start_time_hour":"18",
+		"end_time_hour":"19"
 	}
 ]
