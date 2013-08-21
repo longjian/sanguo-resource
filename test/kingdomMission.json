@@ -1,0 +1,39 @@
+[
+    {
+        "id":"1",
+        "name":"种花栽草",
+        "level":1,
+        "cost": [
+            {
+                "type":23,
+                "cnt":1
+            }
+        ],
+        "kingdomReward": [
+            {
+                "type":20,
+                "cnt":1000
+            }
+        ],
+        "playerReward": [
+            {
+                "type":20,
+                "tid":3000,
+                "cnt":50
+            },
+            {
+                "type":21,
+                "tid":3000,
+                "cnt":1
+            },
+            {
+                "type":11,
+                "tid":1
+            },
+            {
+                "type":1,
+                "tid":210
+            }
+        ]
+    }
+]
