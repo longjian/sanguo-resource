@@ -2606,7 +2606,7 @@
 		"des":"和曹操一同上阵，攻击+25%",
 		"condition":[{"type":1,"id":1}],
 		"atk_add":25,
-		"def_add":,
+		"def_add":0,
 		"country":0,
 		"country_atk_add":0,
 		"country_def_add":0,
