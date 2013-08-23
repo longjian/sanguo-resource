@@ -71,5 +71,8 @@
 	"trade_star":3,
 	"trade_maxprice":10000,
 	"resource_upper":100000000,
-	"honour_upper":100000000
+	"honour_upper":100000000,
+	"max_city_cnt":9,
+	"max_inner_city_cnt":3,
+	"max_outer_city_cnt":6
 }
