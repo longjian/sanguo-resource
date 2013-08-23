@@ -74,5 +74,6 @@
 	"honour_upper":100000000,
 	"max_city_cnt":9,
 	"max_inner_city_cnt":3,
-	"max_outer_city_cnt":6
+	"max_outer_city_cnt":6,
+	"arena_reward":[[100,20],[10,10]]
 }
