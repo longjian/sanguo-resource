@@ -30,7 +30,7 @@
 	"3":{
 		"id":3,
 		"name":"烧鸡",
-		"des":"恢复100点精力",
+		"des":"恢复全部精力",
 		"money":0,
 		"cash":50,
 		"rmb":0,
@@ -39,7 +39,7 @@
 		"add_type":23,
 		"add_method":2,
 		"add_tids":[1],
-		"add_extras":[100]
+		"add_extras":[1000]
 	},
 	"4":{
 		"id":4,
@@ -67,7 +67,7 @@
 		"add_type":24,
 		"add_method":2,
 		"add_tids":[1],
-		"add_extras":[-1]
+		"add_extras":[50]
 	},
 	"6":{
 		"id":6,
