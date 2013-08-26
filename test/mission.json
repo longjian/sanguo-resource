@@ -23,7 +23,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -39,7 +39,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -55,7 +55,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -71,7 +71,7 @@
 				"name":"邓茂",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -87,8 +87,8 @@
 				"name":"程远志",
 				"des":"2000银两",
 				"talk":[{"pic":153,"content":"惟贤惟德，以德服人 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -119,7 +119,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -135,7 +135,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -151,7 +151,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -167,7 +167,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -183,7 +183,7 @@
 				"name":"张梁",
 				"des":"三星武将",
 				"talk":[{"pic":154,"content":"蜀将何在？"}],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[{"tid":51,"type":1,"prob":0.1},{"tid":53,"type":1,"prob":0.1},{"tid":55,"type":1,"prob":0.1},{"tid":52,"type":1,"prob":0.1},{"tid":56,"type":1,"prob":0.1},{"tid":54,"type":1,"prob":0.1}]
 				}
 				}
@@ -208,7 +208,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -224,7 +224,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -240,7 +240,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -256,7 +256,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -272,7 +272,7 @@
 				"name":"张宝",
 				"des":"四星武将",
 				"talk":[{"pic":155,"content":"难道这就是桃园吗…… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[{"tid":8,"type":1,"prob":0.1},{"tid":10,"type":1,"prob":0.1},{"tid":12,"type":1,"prob":0.1},{"tid":9,"type":1,"prob":0.1},{"tid":13,"type":1,"prob":0.1},{"tid":11,"type":1,"prob":0.1}]
 				}
 				}
@@ -304,7 +304,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -320,7 +320,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -336,7 +336,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -352,7 +352,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -368,7 +368,7 @@
 				"name":"张梁",
 				"des":"三星防具",
 				"talk":[{"pic":154,"content":"关羽在此，尔等受死。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[{"tid":109,"type":3,"prob":0.1},{"tid":111,"type":3,"prob":0.1},{"tid":113,"type":3,"prob":0.1},{"tid":110,"type":3,"prob":0.1},{"tid":114,"type":3,"prob":0.1},{"tid":112,"type":3,"prob":0.1}]
 				}
 				}
@@ -393,7 +393,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -409,7 +409,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -425,7 +425,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -441,7 +441,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -457,7 +457,7 @@
 				"name":"张宝",
 				"des":"四星防具",
 				"talk":[{"pic":155,"content":"观尔乃插标卖首。"}],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[{"tid":103,"type":3,"prob":0.1},{"tid":105,"type":3,"prob":0.1},{"tid":107,"type":3,"prob":0.1},{"tid":104,"type":3,"prob":0.1},{"tid":108,"type":3,"prob":0.1},{"tid":106,"type":3,"prob":0.1}]
 				}
 				}
@@ -482,7 +482,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -498,7 +498,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -514,7 +514,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -530,7 +530,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -546,7 +546,7 @@
 				"name":"张角",
 				"des":"三星武器",
 				"talk":[{"pic":100,"content":"什么？此地叫麦城？ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[{"tid":24,"type":2,"prob":0.1},{"tid":26,"type":2,"prob":0.1},{"tid":28,"type":2,"prob":0.1},{"tid":25,"type":2,"prob":0.1},{"tid":29,"type":2,"prob":0.1},{"tid":27,"type":2,"prob":0.1}]
 				}
 				}
@@ -578,7 +578,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -594,7 +594,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -610,7 +610,7 @@
 				"name":"高升",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -626,7 +626,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -642,7 +642,7 @@
 				"name":"张宝",
 				"des":"四星武器",
 				"talk":[{"pic":155,"content":"尔等敢应战否？？ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[{"tid":3,"type":2,"prob":0.1},{"tid":5,"type":2,"prob":0.1},{"tid":7,"type":2,"prob":0.1},{"tid":4,"type":2,"prob":0.1},{"tid":8,"type":2,"prob":0.1},{"tid":6,"type":2,"prob":0.1}]
 				}
 				}
@@ -667,7 +667,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -683,7 +683,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -699,7 +699,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -715,7 +715,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -731,8 +731,8 @@
 				"name":"张宝",
 				"des":"2000银两",
 				"talk":[{"pic":155,"content":"啊啊~！ 燕人张飞在此！！！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -756,7 +756,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -772,7 +772,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -788,7 +788,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -804,7 +804,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -820,8 +820,8 @@
 				"name":"韩忠",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"实在是杀不动了。。。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -845,7 +845,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -861,7 +861,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -877,7 +877,7 @@
 				"name":"赵弘",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -893,7 +893,7 @@
 				"name":"孙仲",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -909,8 +909,8 @@
 				"name":"张角",
 				"des":"2000银两",
 				"talk":[{"pic":100,"content":"知天易,逆天难！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -941,7 +941,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -957,7 +957,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -973,7 +973,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -989,7 +989,7 @@
 				"name":"张举",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1005,8 +1005,8 @@
 				"name":"张纯",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"全军突击~~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1030,7 +1030,7 @@
 				"name":"宫中侍卫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1046,7 +1046,7 @@
 				"name":"宫中侍卫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1062,7 +1062,7 @@
 				"name":"宫中侍卫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1078,7 +1078,7 @@
 				"name":"宫中侍卫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1094,8 +1094,8 @@
 				"name":"宫中侍卫",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"能进能退乃真正法器！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1119,7 +1119,7 @@
 				"name":"反贼",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1135,7 +1135,7 @@
 				"name":"反贼",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1151,7 +1151,7 @@
 				"name":"张让",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1167,7 +1167,7 @@
 				"name":"段珪",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1183,8 +1183,8 @@
 				"name":"反贼",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"难道这就是失败的滋味吗？ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1208,7 +1208,7 @@
 				"name":"反贼",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1224,7 +1224,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1240,7 +1240,7 @@
 				"name":"丁原",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1256,7 +1256,7 @@
 				"name":"宫中侍卫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1272,8 +1272,8 @@
 				"name":"宫中侍卫",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"观今夜天象，知天下大事！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1304,7 +1304,7 @@
 				"name":"董卓",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1320,7 +1320,7 @@
 				"name":"军士",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1336,7 +1336,7 @@
 				"name":"军士",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1352,7 +1352,7 @@
 				"name":"军士",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1368,8 +1368,8 @@
 				"name":"军士",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"将星陨落，天命难违。。。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1393,7 +1393,7 @@
 				"name":"官兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1409,7 +1409,7 @@
 				"name":"官兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1425,7 +1425,7 @@
 				"name":"官兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1441,7 +1441,7 @@
 				"name":"官兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1457,8 +1457,8 @@
 				"name":"官兵",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"太极生两仪，两仪生四象，四象生八卦 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1482,7 +1482,7 @@
 				"name":"董卓军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1498,7 +1498,7 @@
 				"name":"董卓军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1514,7 +1514,7 @@
 				"name":"董卓军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1530,7 +1530,7 @@
 				"name":"董卓军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1546,8 +1546,8 @@
 				"name":"董卓军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"百步穿杨！"}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1578,7 +1578,7 @@
 				"name":"华雄军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1594,7 +1594,7 @@
 				"name":"华雄",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1610,7 +1610,7 @@
 				"name":"胡轸",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1626,7 +1626,7 @@
 				"name":"华雄军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1642,8 +1642,8 @@
 				"name":"李肃",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"不得不服老啊~~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1667,7 +1667,7 @@
 				"name":"李肃",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1683,7 +1683,7 @@
 				"name":"李肃",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1699,7 +1699,7 @@
 				"name":"华雄",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1715,7 +1715,7 @@
 				"name":"华雄",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1731,8 +1731,8 @@
 				"name":"华雄",
 				"des":"2000银两",
 				"talk":[{"pic":91,"content":"燃烧吧！此火可助我军大获全胜！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1756,7 +1756,7 @@
 				"name":"华雄",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1772,7 +1772,7 @@
 				"name":"华雄",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1788,7 +1788,7 @@
 				"name":"华雄",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1804,7 +1804,7 @@
 				"name":"华雄",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1820,8 +1820,8 @@
 				"name":"华雄",
 				"des":"2000银两",
 				"talk":[{"pic":91,"content":"你可识得此阵？"}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1845,7 +1845,7 @@
 				"name":"董卓军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1861,7 +1861,7 @@
 				"name":"董卓军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1877,7 +1877,7 @@
 				"name":"李傕",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1893,7 +1893,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1909,8 +1909,8 @@
 				"name":"吕布",
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"雕虫小计！你的计谋被识破了！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -1934,7 +1934,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1950,7 +1950,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1966,7 +1966,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1982,7 +1982,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -1998,8 +1998,8 @@
 				"name":"吕布",
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"我的计谋竟被…… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2023,7 +2023,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2039,7 +2039,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2055,7 +2055,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2071,7 +2071,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2087,8 +2087,8 @@
 				"name":"吕布军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"伤一敌可连其百！通通连起来吧 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2112,7 +2112,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2128,7 +2128,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2144,7 +2144,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2160,7 +2160,7 @@
 				"name":"徐荣",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2176,8 +2176,8 @@
 				"name":"吕布",
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"凤雏岂能消亡？浴火重生！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2208,7 +2208,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2224,7 +2224,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2240,7 +2240,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2256,7 +2256,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2272,8 +2272,8 @@
 				"name":"蔡瑁",
 				"des":"2000银两",
 				"talk":[{"pic":197,"content":"看来我命中注定将丧命于此…… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2297,7 +2297,7 @@
 				"name":"刘表",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2313,7 +2313,7 @@
 				"name":"蔡瑁",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2329,7 +2329,7 @@
 				"name":"刘表",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2345,7 +2345,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2361,8 +2361,8 @@
 				"name":"士兵",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我会怕你吗？！真是美味啊！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2386,7 +2386,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2402,7 +2402,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2418,7 +2418,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2434,7 +2434,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2450,8 +2450,8 @@
 				"name":"文丑",
 				"des":"2000银两",
 				"talk":[{"pic":106,"content":"谁敢杀我，啊…… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2475,7 +2475,7 @@
 				"name":"文丑",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2491,7 +2491,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2507,7 +2507,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2523,7 +2523,7 @@
 				"name":"文丑",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2539,8 +2539,8 @@
 				"name":"颜良",
 				"des":"2000银两",
 				"talk":[{"pic":105,"content":"得人恩果千年记 ，滴水之恩，涌泉以报！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2571,7 +2571,7 @@
 				"name":"刘表军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2587,7 +2587,7 @@
 				"name":"刘表军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2603,7 +2603,7 @@
 				"name":"樊城守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2619,7 +2619,7 @@
 				"name":"陈生",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2635,8 +2635,8 @@
 				"name":"黄祖",
 				"des":"2000银两",
 				"talk":[{"pic":82,"content":"谁敢得罪我？ 睚眦之怨，无不报复。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2660,7 +2660,7 @@
 				"name":"蔡瑁",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2676,7 +2676,7 @@
 				"name":"守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2692,7 +2692,7 @@
 				"name":"吕公",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2708,7 +2708,7 @@
 				"name":"吕公",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2724,8 +2724,8 @@
 				"name":"伏兵",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"给你的，十倍奉还给我！ 重用许靖，以眩远近。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2749,7 +2749,7 @@
 				"name":"黄祖",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2765,7 +2765,7 @@
 				"name":"吕公",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2781,7 +2781,7 @@
 				"name":"刘表军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2797,7 +2797,7 @@
 				"name":"刘表军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2813,8 +2813,8 @@
 				"name":"刘表",
 				"des":"2000银两",
 				"talk":[{"pic":96,"content":"辅翼既折，蜀汉衰矣… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2845,7 +2845,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2861,7 +2861,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2877,7 +2877,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2893,7 +2893,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2909,8 +2909,8 @@
 				"name":"董卓",
 				"des":"2000银两",
 				"talk":[{"pic":101,"content":"吾通晓兵法，世人皆知 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -2934,7 +2934,7 @@
 				"name":"李儒",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2950,7 +2950,7 @@
 				"name":"董卓家丁",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2966,7 +2966,7 @@
 				"name":"董卓余党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2982,7 +2982,7 @@
 				"name":"牛辅",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -2998,8 +2998,8 @@
 				"name":"牛辅",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"丞相视某如子，某以丞相为父。谡愿以死安大局。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3023,7 +3023,7 @@
 				"name":"李傕",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3039,7 +3039,7 @@
 				"name":"张济",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3055,7 +3055,7 @@
 				"name":"董卓余党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3071,7 +3071,7 @@
 				"name":"董卓余党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3087,8 +3087,8 @@
 				"name":"李傕",
 				"des":"2000银两",
 				"talk":[{"pic":148,"content":"魏将何在？来人，护驾~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3112,7 +3112,7 @@
 				"name":"李傕",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3128,7 +3128,7 @@
 				"name":"乱军叛党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3144,7 +3144,7 @@
 				"name":"王方",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3160,7 +3160,7 @@
 				"name":"乱军叛党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3176,8 +3176,8 @@
 				"name":"张济",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"宁教我负天下人,休教天下人负我！ 孤好梦中杀人！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3208,7 +3208,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3224,7 +3224,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3240,7 +3240,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3256,7 +3256,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3272,8 +3272,8 @@
 				"name":"曹操军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"霸业未成…未成啊… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3297,7 +3297,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3313,7 +3313,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3329,7 +3329,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3345,7 +3345,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3361,8 +3361,8 @@
 				"name":"黄巾军",
 				"des":"2000银两",
 				"talk":[{"pic":151,"content":"孤善于千里袭人！取汝首级犹如探囊取物！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3386,7 +3386,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3402,7 +3402,7 @@
 				"name":"管亥",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3418,7 +3418,7 @@
 				"name":"黄巾军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3434,7 +3434,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3450,8 +3450,8 @@
 				"name":"曹操军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"竟然……比我……还快~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3475,7 +3475,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3491,7 +3491,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3507,7 +3507,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3523,7 +3523,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3539,8 +3539,8 @@
 				"name":"曹操军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我先休息一会！尽管来吧！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3571,7 +3571,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3587,7 +3587,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3603,7 +3603,7 @@
 				"name":"臧霸",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3619,7 +3619,7 @@
 				"name":"张辽",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3635,8 +3635,8 @@
 				"name":"吕布",
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"实在是守不住了！~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3660,7 +3660,7 @@
 				"name":"西寨守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3676,7 +3676,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3692,7 +3692,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3708,7 +3708,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3724,8 +3724,8 @@
 				"name":"吕布",
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"下次注意点！ 出来混，早晚要还的！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3749,7 +3749,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3765,7 +3765,7 @@
 				"name":"伏兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3781,7 +3781,7 @@
 				"name":"伏兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3797,7 +3797,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3813,8 +3813,8 @@
 				"name":"吕布军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"天命？哈哈哈哈～ 吾乃天命之子！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3838,7 +3838,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3854,7 +3854,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3870,7 +3870,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3886,7 +3886,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3902,8 +3902,8 @@
 				"name":"吕布军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"难道真的是天命难违？ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -3927,7 +3927,7 @@
 				"name":"黄巾余党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3943,7 +3943,7 @@
 				"name":"黄巾余党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3959,7 +3959,7 @@
 				"name":"黄巾余党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3975,7 +3975,7 @@
 				"name":"壮士",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -3991,8 +3991,8 @@
 				"name":"许褚",
 				"des":"2000银两",
 				"talk":[{"pic":11,"content":"就这样吧~ 罢了 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4016,7 +4016,7 @@
 				"name":"李封",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4032,7 +4032,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4048,7 +4048,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4064,7 +4064,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4080,8 +4080,8 @@
 				"name":"吕布",
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"也好！就这样吧 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4112,7 +4112,7 @@
 				"name":"叛军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4128,7 +4128,7 @@
 				"name":"叛军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4144,7 +4144,7 @@
 				"name":"徐晃",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4160,7 +4160,7 @@
 				"name":"叛军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4176,8 +4176,8 @@
 				"name":"李傕",
 				"des":"2000银两",
 				"talk":[{"pic":148,"content":"没想到吧？！拿来吧~！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4201,7 +4201,7 @@
 				"name":"叛军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4217,7 +4217,7 @@
 				"name":"徐晃",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4233,7 +4233,7 @@
 				"name":"叛军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4249,7 +4249,7 @@
 				"name":"杨奉",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4265,8 +4265,8 @@
 				"name":"叛军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"真没想到。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4290,7 +4290,7 @@
 				"name":"叛军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4306,7 +4306,7 @@
 				"name":"叛军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4322,7 +4322,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4338,7 +4338,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4354,8 +4354,8 @@
 				"name":"袁术军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"谁来和我大战300回合破！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4379,7 +4379,7 @@
 				"name":"纪灵军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4395,7 +4395,7 @@
 				"name":"纪灵军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4411,7 +4411,7 @@
 				"name":"纪灵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4427,7 +4427,7 @@
 				"name":"荀正",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4443,8 +4443,8 @@
 				"name":"纪灵军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"冷~好冷啊~~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4468,7 +4468,7 @@
 				"name":"叛军乱党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4484,7 +4484,7 @@
 				"name":"叛军乱党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4500,7 +4500,7 @@
 				"name":"叛军乱党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4516,7 +4516,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4532,8 +4532,8 @@
 				"name":"吕布",
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"鼠辈,竟然伤我！以彼之道，还施彼身！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4564,7 +4564,7 @@
 				"name":"刘繇军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4580,7 +4580,7 @@
 				"name":"刘繇军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4596,7 +4596,7 @@
 				"name":"刘繇军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4612,7 +4612,7 @@
 				"name":"张英",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4628,8 +4628,8 @@
 				"name":"张英",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"两，两边都看不见啦~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4653,7 +4653,7 @@
 				"name":"太史慈",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4669,7 +4669,7 @@
 				"name":"太史慈",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4685,7 +4685,7 @@
 				"name":"太史慈",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4701,7 +4701,7 @@
 				"name":"刘繇军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4717,8 +4717,8 @@
 				"name":"刘繇",
 				"des":"2000银两",
 				"talk":[{"pic":176,"content":"仿佛兮若轻云之蔽月，飘飘兮若流风之回雪。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4742,7 +4742,7 @@
 				"name":"太史慈",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4758,7 +4758,7 @@
 				"name":"刘繇军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4774,7 +4774,7 @@
 				"name":"刘繇军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4790,7 +4790,7 @@
 				"name":"于糜",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4806,8 +4806,8 @@
 				"name":"樊能",
 				"des":"2000银两",
 				"talk":[{"pic":140,"content":"凌波微步，罗袜生尘。体恤飞服，飘忽若神 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4831,7 +4831,7 @@
 				"name":"城中守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4847,7 +4847,7 @@
 				"name":"薛礼",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4863,7 +4863,7 @@
 				"name":"太史慈",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4879,7 +4879,7 @@
 				"name":"叛军乱党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4895,8 +4895,8 @@
 				"name":"叛军乱党",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"悼良会之永绝兮，哀一逝而异乡。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -4920,7 +4920,7 @@
 				"name":"吴郡守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4936,7 +4936,7 @@
 				"name":"吴郡守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4952,7 +4952,7 @@
 				"name":"严白虎",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4968,7 +4968,7 @@
 				"name":"王朗",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -4984,8 +4984,8 @@
 				"name":"王朗",
 				"des":"2000银两",
 				"talk":[{"pic":179,"content":"此乃驱虎吞狼之计！借你之手与他一搏吧！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5009,7 +5009,7 @@
 				"name":"吴郡守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5025,7 +5025,7 @@
 				"name":"吴郡守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5041,7 +5041,7 @@
 				"name":"吴郡守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5057,7 +5057,7 @@
 				"name":"严白虎",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5073,8 +5073,8 @@
 				"name":"王朗",
 				"des":"2000银两",
 				"talk":[{"pic":179,"content":"秉忠贞之志，守谦退之节…… 我…永不背弃 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5105,7 +5105,7 @@
 				"name":"山贼",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5121,7 +5121,7 @@
 				"name":"山贼",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5137,7 +5137,7 @@
 				"name":"山贼",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5153,7 +5153,7 @@
 				"name":"山贼",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5169,8 +5169,8 @@
 				"name":"山贼",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"吃我一戟！看我三步之内取你小命！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5194,7 +5194,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5210,7 +5210,7 @@
 				"name":"纪灵军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5226,7 +5226,7 @@
 				"name":"纪灵军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5242,7 +5242,7 @@
 				"name":"纪灵军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5258,8 +5258,8 @@
 				"name":"纪灵",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"主公,快走…… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5283,7 +5283,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5299,7 +5299,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5315,7 +5315,7 @@
 				"name":"吕布",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5331,7 +5331,7 @@
 				"name":"陈宫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5347,8 +5347,8 @@
 				"name":"吕布",
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"来来,一人一口 我喜欢 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5372,7 +5372,7 @@
 				"name":"张绣军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5388,7 +5388,7 @@
 				"name":"张绣军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5404,7 +5404,7 @@
 				"name":"张绣军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5420,7 +5420,7 @@
 				"name":"张绣军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5436,8 +5436,8 @@
 				"name":"张绣",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"曹公之意,我已了然 食之无肉,弃之有味 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5461,7 +5461,7 @@
 				"name":"贾诩",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5477,7 +5477,7 @@
 				"name":"张绣军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5493,7 +5493,7 @@
 				"name":"张绣军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5509,7 +5509,7 @@
 				"name":"张绣军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5525,8 +5525,8 @@
 				"name":"张绣军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我故自已死之晚也 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5550,7 +5550,7 @@
 				"name":"韩胤",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5566,7 +5566,7 @@
 				"name":"张勋",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5582,7 +5582,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5598,7 +5598,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5614,8 +5614,8 @@
 				"name":"袁术",
 				"des":"2000银两",
 				"talk":[{"pic":107,"content":"不先为备,何以待敌? 稳重行军,百战不殆! "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5646,7 +5646,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5662,7 +5662,7 @@
 				"name":"韩暹",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5678,7 +5678,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5694,7 +5694,7 @@
 				"name":"寿春守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5710,8 +5710,8 @@
 				"name":"寿春守军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我...无颜面对丞相了 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5735,7 +5735,7 @@
 				"name":"寿春守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5751,7 +5751,7 @@
 				"name":"寿春守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5767,7 +5767,7 @@
 				"name":"寿春守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5783,7 +5783,7 @@
 				"name":"寿春守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5799,8 +5799,8 @@
 				"name":"张绣",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"别着急哟，给我就好~ 这些都是我的！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5831,7 +5831,7 @@
 				"name":"张先",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5847,7 +5847,7 @@
 				"name":"南阳守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5863,7 +5863,7 @@
 				"name":"南阳守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5879,7 +5879,7 @@
 				"name":"南阳守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5895,8 +5895,8 @@
 				"name":"伏兵",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"走马行酒礼，驱车不鱼肉。置酒高殿上，亲友从我游。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -5920,7 +5920,7 @@
 				"name":"刘表军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5936,7 +5936,7 @@
 				"name":"张绣",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5952,7 +5952,7 @@
 				"name":"张绣军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5968,7 +5968,7 @@
 				"name":"张绣军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -5984,8 +5984,8 @@
 				"name":"贾诩",
 				"des":"2000银两",
 				"talk":[{"pic":15,"content":"本是同根生，相煎何太急… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6016,7 +6016,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6032,7 +6032,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6048,7 +6048,7 @@
 				"name":"张辽",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6064,7 +6064,7 @@
 				"name":"高顺军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6080,8 +6080,8 @@
 				"name":"高顺",
 				"des":"2000银两",
 				"talk":[{"pic":85,"content":"你的死活与我何干？无来无去，不悔不怨。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6105,7 +6105,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6121,7 +6121,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6137,7 +6137,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6153,7 +6153,7 @@
 				"name":"吕布军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6169,8 +6169,8 @@
 				"name":"陈宫",
 				"des":"2000银两",
 				"talk":[{"pic":93,"content":"无情者伤人，有情者自伤 自损八百，可伤敌一千 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6194,7 +6194,7 @@
 				"name":"下邳守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6210,7 +6210,7 @@
 				"name":"下邳守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6226,7 +6226,7 @@
 				"name":"下邳守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6242,7 +6242,7 @@
 				"name":"陈宫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6258,8 +6258,8 @@
 				"name":"吕布",
 				"des":"2000银两",
 				"talk":[{"pic":103,"content":"怎能如此对我 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6290,7 +6290,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6306,7 +6306,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6322,7 +6322,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6338,7 +6338,7 @@
 				"name":"士兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6354,8 +6354,8 @@
 				"name":"士兵",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"容我三思 且慢！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6379,7 +6379,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6395,7 +6395,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6411,7 +6411,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6427,7 +6427,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6443,8 +6443,8 @@
 				"name":"袁术",
 				"des":"2000银两",
 				"talk":[{"pic":107,"content":"好舒服呀~~ 有汝辅佐，甚好 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6468,7 +6468,7 @@
 				"name":"袁术军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6484,7 +6484,7 @@
 				"name":"袁胤",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6500,7 +6500,7 @@
 				"name":"车胄军士",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6516,7 +6516,7 @@
 				"name":"车胄军士",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6532,8 +6532,8 @@
 				"name":"车胄",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"父亲，大哥，仲谋愧也！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6557,7 +6557,7 @@
 				"name":"刘岱军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6573,7 +6573,7 @@
 				"name":"刘岱军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6589,7 +6589,7 @@
 				"name":"刘岱军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6605,7 +6605,7 @@
 				"name":"王忠",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6621,8 +6621,8 @@
 				"name":"刘岱",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"挣扎吧，在血和暗的深渊里！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6646,7 +6646,7 @@
 				"name":"侍卫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6662,7 +6662,7 @@
 				"name":"侍卫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6678,7 +6678,7 @@
 				"name":"侍卫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6694,7 +6694,7 @@
 				"name":"侍卫",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6710,8 +6710,8 @@
 				"name":"曹操军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"哈哈哈哈~汝等给我看好了！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6735,7 +6735,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6751,7 +6751,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6767,7 +6767,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6783,7 +6783,7 @@
 				"name":"张辽",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6799,8 +6799,8 @@
 				"name":"曹操",
 				"des":"2000银两",
 				"talk":[{"pic":1,"content":"请鞭挞我吧，公瑾！赴汤蹈火，在所不辞！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6831,7 +6831,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6847,7 +6847,7 @@
 				"name":"颜良",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6863,7 +6863,7 @@
 				"name":"颜良",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6879,7 +6879,7 @@
 				"name":"颜良",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6895,8 +6895,8 @@
 				"name":"颜良",
 				"des":"2000银两",
 				"talk":[{"pic":105,"content":"失血过多了 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -6920,7 +6920,7 @@
 				"name":"文丑军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6936,7 +6936,7 @@
 				"name":"文丑军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6952,7 +6952,7 @@
 				"name":"文丑",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6968,7 +6968,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -6984,8 +6984,8 @@
 				"name":"袁绍军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"牌不是万能的，但是没牌是万万不能的。旧的不去，新的不来~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7009,7 +7009,7 @@
 				"name":"刘辟",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7025,7 +7025,7 @@
 				"name":"刘辟",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7041,7 +7041,7 @@
 				"name":"刘辟",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7057,7 +7057,7 @@
 				"name":"叛军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7073,8 +7073,8 @@
 				"name":"叛军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我还是太年轻了！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7098,7 +7098,7 @@
 				"name":"叛军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7114,7 +7114,7 @@
 				"name":"叛军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7130,7 +7130,7 @@
 				"name":"劫匪",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7146,7 +7146,7 @@
 				"name":"孔秀",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7162,8 +7162,8 @@
 				"name":"孟坦",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"夫君,身体要紧~ 他好我也好 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7187,7 +7187,7 @@
 				"name":"韩福",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7203,7 +7203,7 @@
 				"name":"卞喜",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7219,7 +7219,7 @@
 				"name":"王植",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7235,7 +7235,7 @@
 				"name":"秦琪",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7251,8 +7251,8 @@
 				"name":"追兵",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"哼~ 看我的厉害~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7283,7 +7283,7 @@
 				"name":"追兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7299,7 +7299,7 @@
 				"name":"夏侯惇",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7315,7 +7315,7 @@
 				"name":"夏侯惇",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7331,7 +7331,7 @@
 				"name":"夏侯惇",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7347,8 +7347,8 @@
 				"name":"夏侯惇",
 				"des":"2000银两",
 				"talk":[{"pic":13,"content":"不，还不可以死…… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7372,7 +7372,7 @@
 				"name":"黄巾余党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7388,7 +7388,7 @@
 				"name":"追兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7404,7 +7404,7 @@
 				"name":"追兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7420,7 +7420,7 @@
 				"name":"赵云",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7436,8 +7436,8 @@
 				"name":"反贼",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"请休息吧~ 你累了~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7461,7 +7461,7 @@
 				"name":"刺客",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7477,7 +7477,7 @@
 				"name":"于吉",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7493,7 +7493,7 @@
 				"name":"于吉",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7509,7 +7509,7 @@
 				"name":"于吉魂魄",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7525,8 +7525,8 @@
 				"name":"于吉魂魄",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"交给你了~ 你来嘛~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7550,7 +7550,7 @@
 				"name":"叛军乱党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7566,7 +7566,7 @@
 				"name":"叛军乱党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7582,7 +7582,7 @@
 				"name":"叛军乱党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7598,7 +7598,7 @@
 				"name":"叛军乱党",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7614,8 +7614,8 @@
 				"name":"袁绍军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"伯符，我去了。。。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7646,7 +7646,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7662,7 +7662,7 @@
 				"name":"张郃",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7678,7 +7678,7 @@
 				"name":"高览",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7694,7 +7694,7 @@
 				"name":"审配",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7710,8 +7710,8 @@
 				"name":"弓箭手",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"不是不报，时候未到！ 留得青山在，不怕没柴烧！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7735,7 +7735,7 @@
 				"name":"弓箭手",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7751,7 +7751,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7767,7 +7767,7 @@
 				"name":"韩猛",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7783,7 +7783,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7799,8 +7799,8 @@
 				"name":"袁绍军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"被看穿了吗…… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7824,7 +7824,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7840,7 +7840,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7856,7 +7856,7 @@
 				"name":"乌巢守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7872,7 +7872,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7888,8 +7888,8 @@
 				"name":"乌巢援军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"你的牌太多啦！接招吧！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -7913,7 +7913,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7929,7 +7929,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7945,7 +7945,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7961,7 +7961,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -7977,8 +7977,8 @@
 				"name":"袁熙",
 				"des":"2000银两",
 				"talk":[{"pic":202,"content":"20年后,又是一条好汉！小乔"}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -8002,7 +8002,7 @@
 				"name":"袁尚",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8018,7 +8018,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8034,7 +8034,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8050,7 +8050,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8066,8 +8066,8 @@
 				"name":"袁绍",
 				"des":"2000银两",
 				"talk":[{"pic":95,"content":"接住哦！~ 替我挡着！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -8091,7 +8091,7 @@
 				"name":"许昌守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8107,7 +8107,7 @@
 				"name":"许褚",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8123,7 +8123,7 @@
 				"name":"李典",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8139,7 +8139,7 @@
 				"name":"曹操军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8155,8 +8155,8 @@
 				"name":"曹操军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"公瑾，我先走一步了~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -8180,7 +8180,7 @@
 				"name":"许褚",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8196,7 +8196,7 @@
 				"name":"于禁",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8212,7 +8212,7 @@
 				"name":"张郃",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8228,7 +8228,7 @@
 				"name":"高览",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8244,8 +8244,8 @@
 				"name":"曹操军",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"还不够！ 我绝不会倒下！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -8269,7 +8269,7 @@
 				"name":"袁绍军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8285,7 +8285,7 @@
 				"name":"袁尚",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8301,7 +8301,7 @@
 				"name":"袁尚军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8317,7 +8317,7 @@
 				"name":"袁谭",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8333,8 +8333,8 @@
 				"name":"刘表",
 				"des":"2000银两",
 				"talk":[{"pic":96,"content":"已经……尽力了！~ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -8358,7 +8358,7 @@
 				"name":"袁尚军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8374,7 +8374,7 @@
 				"name":"尹楷",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8390,7 +8390,7 @@
 				"name":"沮鹄",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8406,7 +8406,7 @@
 				"name":"伏兵",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8422,8 +8422,8 @@
 				"name":"李孚",
 				"des":"2000银两",
 				"talk":[{"pic":150,"content":"我当要替天行道！请助我一臂之力！ "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -8447,7 +8447,7 @@
 				"name":"冀州守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8463,7 +8463,7 @@
 				"name":"冀州守军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8479,7 +8479,7 @@
 				"name":"陈琳",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8495,7 +8495,7 @@
 				"name":"甄姬",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8511,8 +8511,8 @@
 				"name":"许攸",
 				"des":"2000银两",
 				"talk":[{"pic":57,"content":"大丈夫当带三尺之剑，立不世之功…… "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -8536,7 +8536,7 @@
 				"name":"袁谭军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8552,7 +8552,7 @@
 				"name":"袁谭军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8568,7 +8568,7 @@
 				"name":"袁谭",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8584,7 +8584,7 @@
 				"name":"高干",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8600,8 +8600,8 @@
 				"name":"袁熙",
 				"des":"2000银两",
 				"talk":[{"pic":202,"content":"伤敌于千里之外。索命于须臾之间。 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
@@ -8625,7 +8625,7 @@
 				"name":"袁尚军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8641,7 +8641,7 @@
 				"name":"袁尚军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8657,7 +8657,7 @@
 				"name":"袁尚军",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8673,7 +8673,7 @@
 				"name":"袁熙",
 				"des":"无",
 				"talk":[],
-				"cast":[1,{"gid":86,"glevel":1}],
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
 				"reward":[]
 				}
 				},
@@ -8689,8 +8689,8 @@
 				"name":"袁尚",
 				"des":"2000银两",
 				"talk":[{"pic":188,"content":"大丈夫不惧死亡 "}],
-				"cast":[1,{"gid":86,"glevel":1}],
-				"reward":[{"tid":2000,"type":20,"prob":1}]
+				"cast":[1,{"gid":152,"glevel":1,"gskill":400}],
+				"reward":[{"cnt":2000,"type":20,"prob":0.5},{"cnt":2000,"type":20,"prob":0.5}]
 				}
 				}
 		}
