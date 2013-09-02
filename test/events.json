@@ -1,0 +1,50 @@
+﻿{
+	"events":{
+		"defenseWin":{
+			"id":"defenseWin",
+			"msg":"我方在今天的与%s的国战中大获全胜，成功获取%d点荣誉点！"
+		},
+		"attackWin":{
+			"id":"attackWin",
+			"msg":"我方向%s发起征战，成功掠夺%d点物资，%d银两，奖励%d点荣誉值"
+		},
+		"depositMoney":{
+			"id":"depositMoney",
+			"msg":"%s向我国捐献了%d银两，%s的慷慨必将被世民感激~"
+		},
+		"depositCash":{
+			"id":"depositCash",
+			"msg":"%s向我国捐献了%d元宝，%s的慷慨必将被世民感激~"
+		},
+		"uploadResource":{
+			"id":"uploadResource",
+			"msg":"%s向国库存入%d个物资，%s真是个勤劳勇敢的好少年~！"
+		},
+		"withdrawMoney":{
+			"id":"withdrawMoney",
+			"msg":"%s提取了%d银两"
+		},
+		"withdrawCash":{
+			"id":"withdrawCash",
+			"msg":"%s提取了%d元宝"
+		},
+		"giveOutMoney":{
+			"id":"giveOutMoney",
+			"msg":"%s发放了%d银两, %s的慷慨必将被世民感激~！"
+		}
+},
+	"achievements":{
+		"money>=10000":{
+			"id":"money>=10000",
+			"msg":"国库的银两超过10000啦~!"
+		},
+		"money>=100000":{
+			"id":"money>=100000",
+			"msg":"国库的银两超过100000啦~!"
+		},
+		"cash>=1000":{
+			"id":"cash>=1000",
+			"msg":"国库的元宝超过1000啦~!"
+		}
+}
+}
