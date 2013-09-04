@@ -6,7 +6,7 @@
 		"fpos":{"atk_min":2,"atk_grow":180,"def_min":2,"def_grow":180},
 		"pos":[{"atk_min":210,"atk_grow":2,"def_min":190,"def_grow":2},{"atk_min":208,"atk_grow":2,"def_min":188,"def_grow":2},{"atk_min":206,"atk_grow":2,"def_min":186,"def_grow":2},{"atk_min":204,"atk_grow":2,"def_min":184,"def_grow":2},{"atk_min":202,"atk_grow":2,"def_min":182,"def_grow":2},{"atk_min":198,"atk_grow":2,"def_min":178,"def_grow":2},{"atk_min":196,"atk_grow":2,"def_min":176,"def_grow":2},{"atk_min":194,"atk_grow":2,"def_min":174,"def_grow":2},{"atk_min":192,"atk_grow":2,"def_min":172,"def_grow":2},{"atk_min":190,"atk_grow":2,"def_min":170,"def_grow":2}],
 		"restrain":[{"id":3,"atk":30,"def":30},{"id":4,"atk":30,"def":30},{"id":5,"atk":30,"def":30},{"id":6,"atk":30,"def":30}],
-		"ctime":43200,
+		"ctime":30,
 		"frags":[1,2,3,4,5,6]
 	},
 	"2":{
@@ -16,7 +16,7 @@
 		"fpos":{"atk_min":2,"atk_grow":200,"def_min":2,"def_grow":200},
 		"pos":[{"atk_min":190,"atk_grow":2,"def_min":210,"def_grow":2},{"atk_min":188,"atk_grow":2,"def_min":208,"def_grow":2},{"atk_min":186,"atk_grow":2,"def_min":206,"def_grow":2},{"atk_min":184,"atk_grow":2,"def_min":204,"def_grow":2},{"atk_min":182,"atk_grow":2,"def_min":202,"def_grow":2},{"atk_min":178,"atk_grow":2,"def_min":198,"def_grow":2},{"atk_min":176,"atk_grow":2,"def_min":196,"def_grow":2},{"atk_min":174,"atk_grow":2,"def_min":194,"def_grow":2},{"atk_min":172,"atk_grow":2,"def_min":192,"def_grow":2},{"atk_min":170,"atk_grow":2,"def_min":190,"def_grow":2}],
 		"restrain":[{"id":3,"atk":30,"def":30},{"id":4,"atk":30,"def":30},{"id":5,"atk":30,"def":30},{"id":6,"atk":30,"def":30}],
-		"ctime":43200,
+		"ctime":40,
 		"frags":[7,8,9,10,11,12]
 	},
 	"3":{
@@ -26,7 +26,7 @@
 		"fpos":{"atk_min":2,"atk_grow":150,"def_min":2,"def_grow":150},
 		"pos":[{"atk_min":220,"atk_grow":2,"def_min":140,"def_grow":2},{"atk_min":222,"atk_grow":2,"def_min":142,"def_grow":2},{"atk_min":224,"atk_grow":2,"def_min":144,"def_grow":2},{"atk_min":226,"atk_grow":2,"def_min":146,"def_grow":2},{"atk_min":228,"atk_grow":2,"def_min":148,"def_grow":2},{"atk_min":232,"atk_grow":2,"def_min":152,"def_grow":2},{"atk_min":234,"atk_grow":2,"def_min":154,"def_grow":2},{"atk_min":236,"atk_grow":2,"def_min":156,"def_grow":2},{"atk_min":238,"atk_grow":2,"def_min":158,"def_grow":2},{"atk_min":240,"atk_grow":2,"def_min":160,"def_grow":2}],
 		"restrain":[{"id":5,"atk":40,"def":40},{"id":6,"atk":40,"def":40},{"id":7,"atk":40,"def":40},{"id":8,"atk":40,"def":40}],
-		"ctime":43200,
+		"ctime":30,
 		"frags":[13,14,15,16,17,18]
 	},
 	"4":{
@@ -36,7 +36,7 @@
 		"fpos":{"atk_min":2,"atk_grow":230,"def_min":2,"def_grow":230},
 		"pos":[{"atk_min":140,"atk_grow":2,"def_min":220,"def_grow":2},{"atk_min":142,"atk_grow":2,"def_min":222,"def_grow":2},{"atk_min":144,"atk_grow":2,"def_min":224,"def_grow":2},{"atk_min":146,"atk_grow":2,"def_min":226,"def_grow":2},{"atk_min":148,"atk_grow":2,"def_min":228,"def_grow":2},{"atk_min":152,"atk_grow":2,"def_min":232,"def_grow":2},{"atk_min":154,"atk_grow":2,"def_min":234,"def_grow":2},{"atk_min":156,"atk_grow":2,"def_min":236,"def_grow":2},{"atk_min":158,"atk_grow":2,"def_min":238,"def_grow":2},{"atk_min":160,"atk_grow":2,"def_min":240,"def_grow":2}],
 		"restrain":[{"id":5,"atk":40,"def":40},{"id":6,"atk":40,"def":40},{"id":7,"atk":40,"def":40},{"id":8,"atk":40,"def":40}],
-		"ctime":43200,
+		"ctime":40,
 		"frags":[19,20,21,22,23,24]
 	},
 	"5":{
@@ -46,7 +46,7 @@
 		"fpos":{"atk_min":2,"atk_grow":170,"def_min":2,"def_grow":170},
 		"pos":[{"atk_min":200,"atk_grow":2,"def_min":160,"def_grow":2},{"atk_min":202,"atk_grow":2,"def_min":162,"def_grow":2},{"atk_min":204,"atk_grow":2,"def_min":164,"def_grow":2},{"atk_min":206,"atk_grow":2,"def_min":166,"def_grow":2},{"atk_min":208,"atk_grow":2,"def_min":168,"def_grow":2},{"atk_min":212,"atk_grow":2,"def_min":172,"def_grow":2},{"atk_min":214,"atk_grow":2,"def_min":174,"def_grow":2},{"atk_min":216,"atk_grow":2,"def_min":176,"def_grow":2},{"atk_min":218,"atk_grow":2,"def_min":178,"def_grow":2},{"atk_min":220,"atk_grow":2,"def_min":180,"def_grow":2}],
 		"restrain":[{"id":7,"atk":50,"def":50},{"id":8,"atk":50,"def":50},{"id":9,"atk":50,"def":50},{"id":10,"atk":50,"def":50}],
-		"ctime":43200,
+		"ctime":30,
 		"frags":[25,26,27,28,29,30]
 	},
 	"6":{
@@ -56,7 +56,7 @@
 		"fpos":{"atk_min":2,"atk_grow":210,"def_min":2,"def_grow":210},
 		"pos":[{"atk_min":160,"atk_grow":2,"def_min":200,"def_grow":2},{"atk_min":162,"atk_grow":2,"def_min":202,"def_grow":2},{"atk_min":164,"atk_grow":2,"def_min":204,"def_grow":2},{"atk_min":166,"atk_grow":2,"def_min":206,"def_grow":2},{"atk_min":168,"atk_grow":2,"def_min":208,"def_grow":2},{"atk_min":172,"atk_grow":2,"def_min":212,"def_grow":2},{"atk_min":174,"atk_grow":2,"def_min":214,"def_grow":2},{"atk_min":176,"atk_grow":2,"def_min":216,"def_grow":2},{"atk_min":178,"atk_grow":2,"def_min":218,"def_grow":2},{"atk_min":180,"atk_grow":2,"def_min":220,"def_grow":2}],
 		"restrain":[{"id":7,"atk":50,"def":50},{"id":8,"atk":50,"def":50},{"id":9,"atk":50,"def":50},{"id":10,"atk":50,"def":50}],
-		"ctime":43200,
+		"ctime":40,
 		"frags":[31,32,33,34,35,36]
 	},
 	"7":{
@@ -66,7 +66,7 @@
 		"fpos":{"atk_min":2,"atk_grow":160,"def_min":2,"def_grow":160},
 		"pos":[{"atk_min":230,"atk_grow":2,"def_min":170,"def_grow":2},{"atk_min":228,"atk_grow":2,"def_min":168,"def_grow":2},{"atk_min":226,"atk_grow":2,"def_min":166,"def_grow":2},{"atk_min":224,"atk_grow":2,"def_min":164,"def_grow":2},{"atk_min":222,"atk_grow":2,"def_min":162,"def_grow":2},{"atk_min":218,"atk_grow":2,"def_min":158,"def_grow":2},{"atk_min":216,"atk_grow":2,"def_min":156,"def_grow":2},{"atk_min":214,"atk_grow":2,"def_min":154,"def_grow":2},{"atk_min":212,"atk_grow":2,"def_min":152,"def_grow":2},{"atk_min":210,"atk_grow":2,"def_min":150,"def_grow":2}],
 		"restrain":[{"id":9,"atk":20,"def":20},{"id":10,"atk":20,"def":20},{"id":3,"atk":20,"def":20},{"id":4,"atk":20,"def":20}],
-		"ctime":43200,
+		"ctime":30,
 		"frags":[37,38,39,40,41,42]
 	},
 	"8":{
@@ -76,7 +76,7 @@
 		"fpos":{"atk_min":2,"atk_grow":220,"def_min":2,"def_grow":220},
 		"pos":[{"atk_min":170,"atk_grow":2,"def_min":230,"def_grow":2},{"atk_min":168,"atk_grow":2,"def_min":228,"def_grow":2},{"atk_min":166,"atk_grow":2,"def_min":226,"def_grow":2},{"atk_min":164,"atk_grow":2,"def_min":224,"def_grow":2},{"atk_min":162,"atk_grow":2,"def_min":222,"def_grow":2},{"atk_min":158,"atk_grow":2,"def_min":218,"def_grow":2},{"atk_min":156,"atk_grow":2,"def_min":216,"def_grow":2},{"atk_min":154,"atk_grow":2,"def_min":214,"def_grow":2},{"atk_min":152,"atk_grow":2,"def_min":212,"def_grow":2},{"atk_min":150,"atk_grow":2,"def_min":210,"def_grow":2}],
 		"restrain":[{"id":9,"atk":20,"def":20},{"id":10,"atk":20,"def":20},{"id":3,"atk":20,"def":20},{"id":4,"atk":20,"def":20}],
-		"ctime":43200,
+		"ctime":40,
 		"frags":[43,44,45,46,47,48]
 	},
 	"9":{
@@ -86,7 +86,7 @@
 		"fpos":{"atk_min":2,"atk_grow":240,"def_min":2,"def_grow":240},
 		"pos":[{"atk_min":245,"atk_grow":2,"def_min":235,"def_grow":2},{"atk_min":246,"atk_grow":2,"def_min":236,"def_grow":2},{"atk_min":247,"atk_grow":2,"def_min":237,"def_grow":2},{"atk_min":248,"atk_grow":2,"def_min":238,"def_grow":2},{"atk_min":249,"atk_grow":2,"def_min":239,"def_grow":2},{"atk_min":251,"atk_grow":2,"def_min":241,"def_grow":2},{"atk_min":252,"atk_grow":2,"def_min":242,"def_grow":2},{"atk_min":253,"atk_grow":2,"def_min":243,"def_grow":2},{"atk_min":254,"atk_grow":2,"def_min":244,"def_grow":2},{"atk_min":255,"atk_grow":2,"def_min":245,"def_grow":2}],
 		"restrain":[{"id":10,"atk":10,"def":10},{"id":2,"atk":10,"def":10},{"id":1,"atk":10,"def":10},{"id":2,"atk":10,"def":10}],
-		"ctime":86400,
+		"ctime":30,
 		"frags":[49,50,51,52,53,54]
 	},
 	"10":{
@@ -96,7 +96,7 @@
 		"fpos":{"atk_min":2,"atk_grow":240,"def_min":2,"def_grow":240},
 		"pos":[{"atk_min":245,"atk_grow":2,"def_min":235,"def_grow":2},{"atk_min":246,"atk_grow":2,"def_min":236,"def_grow":2},{"atk_min":247,"atk_grow":2,"def_min":237,"def_grow":2},{"atk_min":248,"atk_grow":2,"def_min":238,"def_grow":2},{"atk_min":249,"atk_grow":2,"def_min":239,"def_grow":2},{"atk_min":251,"atk_grow":2,"def_min":241,"def_grow":2},{"atk_min":252,"atk_grow":2,"def_min":242,"def_grow":2},{"atk_min":253,"atk_grow":2,"def_min":243,"def_grow":2},{"atk_min":254,"atk_grow":2,"def_min":244,"def_grow":2},{"atk_min":255,"atk_grow":2,"def_min":245,"def_grow":2}],
 		"restrain":[{"id":10,"atk":10,"def":10},{"id":2,"atk":10,"def":10},{"id":1,"atk":10,"def":10},{"id":2,"atk":10,"def":10}],
-		"ctime":86400,
+		"ctime":40,
 		"frags":[55,56,57,58,59,60]
 	}
 }
