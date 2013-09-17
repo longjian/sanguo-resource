@@ -51,7 +51,7 @@
 	"fuben_reset_cash":[100,1000,10000,100000,100000,500000],
 	"display_cnt":20,
 	"money_color":[100,300],
-	"fuben_unlock":10,
+	"fuben_unlock":1,
 	"arena_unlock":20,
 	"kingdom_unlock":40,
 	"max_atk_time":50,
